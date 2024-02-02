@@ -1,12 +1,12 @@
 
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
-| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice| 
+| Phase Shifting Index |Affiche de l'exposition|
+| Fonderie Darling    | Vous devant l'entrée de l'édifice| 
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | N/A | 
-| Date de votre visite    | N/A           | 
+| 02/02/2024    | N/A           | 
 | Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  | 
-| Nom de l'artiste    | Cartel         | 
+| Jeremy Shaw    | Cartel         | 
 | Année de réalisation     |   N/A        | 
 | Description de l'oeuvre   | Cartel + diverses vues          | 
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante*             | 
