@@ -4,6 +4,11 @@
 
 Documentation de la mise en espace, des composantes et de l’expérience vécue.
 
+## OBJECTIFS POURSUIVIS 
+- [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
+- [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
+- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
+
 ## LORS DE LA VISITE
       
 |:pencil2: À noter  | :camera: À photographier | 
@@ -23,11 +28,6 @@ Documentation de la mise en espace, des composantes et de l’expérience vécue
 | Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter l'interactivité avec celle-ci        | 
 | :heart: Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications   | Éléments pertinents       | 
 | :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications     | Éléments pertinents      | 
-
-## OBJECTIFS POURSUIVIS 
-- [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
-- [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
-- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
 
 ## MÉTHODE
 - [ ] Compiler les fichiers et notes de la visite 
