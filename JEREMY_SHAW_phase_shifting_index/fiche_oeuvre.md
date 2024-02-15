@@ -2,7 +2,7 @@
 
 # LA BANQUE D'INSPIRATIONS
 
-Documentatio de la mise en espace, des composantes et de l’expérience vécue.
+Documentation de la mise en espace, des composantes et de l’expérience vécue.
 
 ## LORS DE LA VISITE
       
