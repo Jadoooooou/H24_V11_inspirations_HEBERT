@@ -1,10 +1,8 @@
 # VISITE ET EXPÉRIENCE DE L'EXPOSITION JEREMY SHAW,*PHASE SHIFTING INDEX*, ORGANISÉE PAR LE MUSÉE D'ART CONTEMPORAIN (MAC) À LA FONDERIE DARLING
 
-## Extrait de la banque d'insprirations d'oeuvres et de dispositifs multimedias en exposition
-
 # LA BANQUE D'INSPIRATIONS
 
-Vous documenterez la mise en espace, les composantes et l’expérience vécue. Les documents créés pour la mise en exposition de ces œuvres et dispositifs seront analysés. 
+Documentatio de la mise en espace, des composantes et de l’expérience vécue.
 
 ## LORS DE LA VISITE
       
