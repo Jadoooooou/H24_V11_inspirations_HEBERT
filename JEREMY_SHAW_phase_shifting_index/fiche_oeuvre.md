@@ -49,12 +49,12 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition| |
-| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice|  |
-| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    |  |  |
-| Date de votre visite    |            |  |
-| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  |  |
-| Nom de l'artiste    |         |  |
+| Jeremy Shaw : Phase Shifting Index |Affiche de l'exposition| |
+| Fonderie Darling | Vous devant l'entrée de l'édifice|  |
+| Type d'exposition : itinérante |  |  |
+| 02/02/2024  |            |  |
+| Phase Shifting Index | Vue d'ensemble de l'oeuvre ou du dispositif  |  |
+| Jeremy Shaw |         |  |
 | Année de réalisation     |          |  |
 | Description de l'oeuvre   | Cartel + diverses vues          | À composer ou reprendre la descritpion offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante* - vidéo ou photo qui nous permet de bien comprendre le type d'installation             | --- |
