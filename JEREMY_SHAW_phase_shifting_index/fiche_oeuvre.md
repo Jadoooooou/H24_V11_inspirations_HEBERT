@@ -49,7 +49,8 @@ Vous devrez créer une fiche qui vous permettra de présenter en détails l'oeuv
 
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
 | ---     | ---             | --- |
-| Jeremy Shaw : Phase Shifting Index |Affiche de l'exposition| |
+| Nom de l'exposition ou de l'événement
+Jeremy Shaw : Phase Shifting Index |Affiche de l'exposition| |
 | Fonderie Darling | Vous devant l'entrée de l'édifice|  |
 | Type d'exposition : itinérante |  |  |
 | 02/02/2024  |            |  |
