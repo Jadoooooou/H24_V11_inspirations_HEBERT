@@ -1,6 +1,6 @@
 # Jeremy Shaw : *PHASE SHIFTING INDEX*
 
-> **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, février 2024
+> **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
 
 Située à la Fonderie Darling, *PHASE SHIFTING INDEX* est une exposition itinérante réalisée en 2020. Elle est présentée par le Musée d’art contemporain de Montréal en partenariat avec The Polygon,Vancouver
 
@@ -12,7 +12,9 @@ Shaw a présenté des expositions individuelles au *Centre Pompidou* à Paris, a
 > **Source** Site Web du MAC *Jeremy Shaw : Phase Shifting Index* <https://macm.org/expositions/jeremy-shaw/>
 
 ## Analyse descriptive de l'œuvre 
-**PHASE SHIFTING INDEX** installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases.
+*PHASE SHIFTING INDEX* installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases.
+### Mise en place de l'œuvre
+Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de  font face à des bancs, aussi accotés au mur de la salle d'exposition
 
 
 ## MÉTHODE
