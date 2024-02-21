@@ -1,6 +1,7 @@
 # Jeremy Shaw : *PHASE SHIFTING INDEX*
 
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, février 2024
+###Située à la Fonderie Darling, *PHASE SHIFTING INDEX* est une exposition itinérante réalisée en 2020. Elle est présentée par le Musée d’art contemporain de Montréal en partenariat avec The Polygon,Vancouver
 
 ## L'artiste
 Jeremy Shaw (né en 1977 à North Vancouver) utilise différentes techniques pour explorer les états seconds ainsi que les pratiques culturelles et scientifiques qui cherchent à tracer les expériences transcendantales. Il combine et amplifie souvent des stratégies tirées du cinéma-vérité, de l’art conceptuel, des vidéoclips et de la recherche scientifique afin de proposer un espace postdocumentaire où une variété de systèmes de croyances et de narrations se perdent dans des limbes de l’interprétation. 
@@ -9,17 +10,11 @@ Shaw a présenté des expositions individuelles au *Centre Pompidou* à Paris, a
 
 > **Source** Site Web du MAC *Jeremy Shaw : Phase Shifting Index* <https://macm.org/expositions/jeremy-shaw/>
 
-## Analyse descriptive de l'œuvre
-**PHASE SHIFTING INDEX** installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases
-
-## OBJECTIFS POURSUIVIS 
-- [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
-- [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
-- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
+## Analyse descriptive de l'œuvre 
+**PHASE SHIFTING INDEX** installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases.
 
 
 ## MÉTHODE
-- [ ] À partir des aspects notés et photographiés, créer une fiche de présentation des informations bien **structurée** (titres, sous-titres, cohérence de la présentation, intégration soignée d'appuis visuels...)
 - [ ] Intégrer les informations demandées dans la fiche créée
 - [ ] Faire des recherches complémentaires pour enrichir l'information (ex : site de l'exposition, site web de l'artiste, recherche sur les composantes...)
 - [ ] Élaborer des justifications lorsque nécessaire (le *pourquoi*)
