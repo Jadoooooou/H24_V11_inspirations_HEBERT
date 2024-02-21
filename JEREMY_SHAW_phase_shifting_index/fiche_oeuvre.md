@@ -14,8 +14,13 @@ Shaw a présenté des expositions individuelles au *Centre Pompidou* à Paris, a
 ## Analyse descriptive de l'œuvre 
 *PHASE SHIFTING INDEX* installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases.
 ### Mise en place de l'œuvre
-Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de  font face à des bancs, aussi accotés au mur de la salle d'exposition
-
+Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de visioner les courts-métrages des deux bords. Ces écrans font face à des bancs, certains petits et à proximité des toiles, et les autres sur le long du mur, de type gradins afin d'obtnenir une meilleure vue d'ensemble de l’exposition.
+### Composantes et techniques
+- [ ] toiles blanches opaques et transparentes
+- [ ] projecteurs
+- [ ] haut-parleurs
+- [ ] lumières
+- [ ] console
 
 ## MÉTHODE
 - [ ] Intégrer les informations demandées dans la fiche créée
