@@ -15,6 +15,9 @@ Shaw a présenté des expositions individuelles au *Centre Pompidou* à Paris, a
 *PHASE SHIFTING INDEX* installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases.
 ### Mise en place de l'œuvre
 Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de visioner les courts-métrages des deux bords. Ces écrans font face à des bancs, certains petits et à proximité des toiles, et les autres sur le long du mur, de type gradins afin d'obtnenir une meilleure vue d'ensemble de l’exposition.
+
+> **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
+
 ### Composantes et techniques
 - [ ] toiles blanches opaques et transparentes
 - [ ] projecteurs
@@ -22,12 +25,19 @@ Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre e
 - [ ] lumières
 - [ ] console
 
-## MÉTHODE
-- [ ] Intégrer les informations demandées dans la fiche créée
-- [ ] Faire des recherches complémentaires pour enrichir l'information (ex : site de l'exposition, site web de l'artiste, recherche sur les composantes...)
-- [ ] Élaborer des justifications lorsque nécessaire (le *pourquoi*)
-- [ ] Insérer les sources de vos informations et les crédits photos lorsque requis
-- [ ] 
+### Éléments nécessaires à la mise en exposition
+Il est primordial pour l'exposition d'avoir un plafon ouvert afin d'y accrocher les diverses composantes techniques telles qu’énumérées ci-haut
+
+> **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
+
+## Signification de l'œuvre et son contexte
+
+> **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
+
+## Expérience vécue
+
+
+
 ### NOTES ET PHOTOGRAPHIES LORS DE VOTRE VISITE
 
 |:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
