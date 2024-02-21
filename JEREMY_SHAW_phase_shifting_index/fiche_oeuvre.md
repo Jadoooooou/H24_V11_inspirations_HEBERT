@@ -2,7 +2,7 @@
 
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, février 2024
 
-###Située à la Fonderie Darling, *PHASE SHIFTING INDEX* est une exposition itinérante réalisée en 2020. Elle est présentée par le Musée d’art contemporain de Montréal en partenariat avec The Polygon,Vancouver
+###Située à la Fonderie Darling, *PHASE SHIFTING INDEX* est une exposition itinérante réalisée en 2020. Elle est présentée par le Musée d’art contemporain de Montréal en partenariat avec The Polygon,Vancouver###
 
 ## L'artiste
 Jeremy Shaw (né en 1977 à North Vancouver) utilise différentes techniques pour explorer les états seconds ainsi que les pratiques culturelles et scientifiques qui cherchent à tracer les expériences transcendantales. Il combine et amplifie souvent des stratégies tirées du cinéma-vérité, de l’art conceptuel, des vidéoclips et de la recherche scientifique afin de proposer un espace postdocumentaire où une variété de systèmes de croyances et de narrations se perdent dans des limbes de l’interprétation. 
