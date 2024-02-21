@@ -4,11 +4,13 @@
 
 ## L'artiste
 Jeremy Shaw (né en 1977 à North Vancouver) utilise différentes techniques pour explorer les états seconds ainsi que les pratiques culturelles et scientifiques qui cherchent à tracer les expériences transcendantales. Il combine et amplifie souvent des stratégies tirées du cinéma-vérité, de l’art conceptuel, des vidéoclips et de la recherche scientifique afin de proposer un espace postdocumentaire où une variété de systèmes de croyances et de narrations se perdent dans des limbes de l’interprétation. 
+
 Shaw a présenté des expositions individuelles au *Centre Pompidou* à Paris, au *MoMA PS1* à New York, au *Schinkel Pavillon* à Berlin, et au *MOCA* à Toronto. Il a également participé à des expositions internationales telles que la *57e Biennale* de Venise et *Manifesta 11*, à Zurich. Ses œuvres figurent dans plusieurs collections publiques à travers le monde, notamment celles du *Museum of Modern Art* de New York, du *Centre Pompidou* à Paris, de la *Tate Modern* à Londres, du *Musée des beaux-arts du Canada* à Ottawa, et de la *Sammlung zeitgenössische Kunst des Bundesrepublik* en Allemagne.
 
 > **Source** Site Web du MAC *Jeremy Shaw : Phase Shifting Index* <https://macm.org/expositions/jeremy-shaw/>
 
 ## Analyse descriptive de l'œuvre
+**PHASE SHIFTING INDEX** installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases
 
 ## OBJECTIFS POURSUIVIS 
 - [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
