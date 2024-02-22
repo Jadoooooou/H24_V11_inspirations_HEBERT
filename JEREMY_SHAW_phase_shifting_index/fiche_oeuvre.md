@@ -5,9 +5,9 @@
 Située à la Fonderie Darling, *PHASE SHIFTING INDEX* est une exposition itinérante réalisée en 2020. Elle est présentée par le Musée d’art contemporain de Montréal en partenariat avec The Polygon,Vancouver
 
 ## L'artiste
-Jeremy Shaw (né en 1977 à North Vancouver) utilise différentes techniques pour explorer les états seconds ainsi que les pratiques culturelles et scientifiques qui cherchent à tracer les expériences transcendantales. Il combine et amplifie souvent des stratégies tirées du cinéma-vérité, de l’art conceptuel, des vidéoclips et de la recherche scientifique afin de proposer un espace postdocumentaire où une variété de systèmes de croyances et de narrations se perdent dans des limbes de l’interprétation. 
+Jeremy Shaw est un artiste né en 1977 à North Vancouver. Il est reconnu pour ces divers techniques afin d'explorer le sentiment de spiritualité, de conscience supérieure lors de pratiques culturelles ou d’expériences personnelles. Shaw utilise régulièrement un aspect documentaire, tout en mélangeant les époques.
 
-Shaw a présenté des expositions individuelles au *Centre Pompidou* à Paris, au *MoMA PS1* à New York, au *Schinkel Pavillon* à Berlin, et au *MOCA* à Toronto. Il a également participé à des expositions internationales telles que la *57e Biennale* de Venise et *Manifesta 11*, à Zurich. Ses œuvres figurent dans plusieurs collections publiques à travers le monde, notamment celles du *Museum of Modern Art* de New York, du *Centre Pompidou* à Paris, de la *Tate Modern* à Londres, du *Musée des beaux-arts du Canada* à Ottawa, et de la *Sammlung zeitgenössische Kunst des Bundesrepublik* en Allemagne.
+Shaw a notamment présenté ces création au *Centre Pompidou* à Paris, au *MoMA PS1* à New York, au *Schinkel Pavillon* à Berlin, au *Tate Modern* à Londres, au *Musée des beaux-arts du Canada* à Ottawa, et au *Sammlung zeitgenössische Kunst des Bundesrepublik* en Allemagne.
 
 > **Source** Site Web du MAC *Jeremy Shaw : Phase Shifting Index* <https://macm.org/expositions/jeremy-shaw/>
 
