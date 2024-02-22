@@ -53,37 +53,22 @@ Il est primordial pour l'exposition d'avoir un plafon ouvert afin d'y accrocher 
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
 
 ## Expérience vécue
+Les spectateurs sont invités à se promener et à s’arrêter devant les divers écrans. Les bancs placés encourage le visionnement assis, afin de vraiment donner toute son attention.
 
 ### Ce qui m'a plu ♥
-J'ai aimé le mélange de la technologie et de la spiritualité. En effet, l'exposition Phase Shifting Index était riche en sensation et m'a fait ressentir un mélange d'émotions contradictoires tel que la confusion totale combinée avec une sorte de sentiment de calme profond.
+J'ai aimé le mélange de la technologie et de la spiritualité. En effet, l'exposition Phase Shifting Index était riche en sensation et m'a fait ressentir un mélange d'émotions contradictoires tel que la confusion totale combinée avec une sorte de sentiment de calme profond. Au départ, la confusion puisque, comme mentionné plus haut, les spectateurs sont invités à se promener et à s’arrêter devant les vidéos qui sont dans des langues incompréhensibles. Ce sentiment s'aggrandit lorsque le volume de chaque reportage monte en intensité. Je me souviens d'avoir été envahie d'une sensation lourde et quelque peu désagréable. Et puis, tout d'un coup, alors que l'on comprend que les vidéos sont liées et se synchronises pour transformer le sentiment "d’étouffement" en satisfaction. Finalement, le sentiment de calme absolu lorsque tout devient calme, accompagné de lumières et d'une douce mélodie. 
 
-![photo](Phase_Shifting_Index_moment.jpg)
+Ce cheminement d'émotion est ce qui m'a le plus connecté à l'œuvre ♥ . Voici le moment en question:
+
+![photo](media/Phase_Shifting_Index_moment.jpg)
 
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
 
 ### Aspect que je ne souhaites pas retenir pour mes propres créations ♦
+Quoique j'ai adoré le sentiment d’incompréhension, et que, selon moi, il est nécessaire pour pouvoir ressentir ce sentiement de calme et de paix d'esprit, j'aurais aimé un peu plus d'indications, de directions. Cela peut s'implement être par l'ajout d'un tracé pour établir une sorte de parcour à travers les écrans. En effet, lorsque je suis aller à l'exposition, je n'ai pas pu voir toutes les vidéos avant que le *grand moment* arrive, ce qui m'a un peu déçue puisque je n'ai pas eu la chance de voir l'œuvre dans son ensemble en premier.
 
-![photo](Fonderie_Darling_groupe.jpg)
+## Jeremy Shaw : PHASE SHIFTING INDEX, Fiche d'œuvre
+
+![photo](media/Fonderie_Darling_groupe.jpg)
 
 > **Source** Photo de moi à la Fonderie Darling, 02/02/2024
-
-### NOTES ET PHOTOGRAPHIES LORS DE VOTRE VISITE
-
-|:pencil2: Information recherchée  | :camera: Appui visuel à intégrer | Détails supplémentaires |
-| ---     | ---             | --- |
-| Nom de l'exposition ou de l'événement : Jeremy Shaw : Phase Shifting Index |Affiche de l'exposition| |
-| Lieu de l'exposition : Fonderie Darling | Vous devant l'entrée de l'édifice|  |
-| Type d'exposition : itinérante |  |  |
-| Date de visite : 02/02/2024  |            |  |
-| Titre de l'œuvre : Phase Shifting Index | Vue d'ensemble de l'oeuvre ou du dispositif  |  |
-| Nom de l'artiste : Jeremy Shaw |         |  |
-| Année de réalisation : 2020  |          |  |
-| Description de l'oeuvre : Cette installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases| Cartel + diverses vues          | À composer ou reprendre la descritpion offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
-| Type d'installation : immersive | Vue *parlante* - vidéo ou photo qui nous permet de bien comprendre le type d'installation             | --- |
-| Mise en espace : Sept écrans disposés de façon non conditionnels font face à des bancs, aussi accotés au mur de la salle d'exposition | Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)        | Texte qui permet de comprendre comment l'oeuvre est mise en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-elle disposée... ?  |
-| Composantes et techniques : toiles blanches opaques et transparentes, projecteurs, haut-parleurs, lumières, console | Parties composantes de l'oeuvre (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des composantes et techniques utilisées (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer) |
-| Éléments nécessaires à la mise en exposition : il est primordial pour l'exposition d'avoir un plafon ouvert afin d'y accrocher les diverses composantes techniques telles qu’énumérées ci-haut | Éléments de mise en exposition (il est possible d'utiliser des images tirées de sites internet pour faciliter la compréhension si les photos prises ne sont pas claires) | Liste des éléments nécessaires à la mise en exposition (ce que le musée a mis en place pour que l'oeuvre soit exposée (bancs, cache-fil, crochets, sacs de sable, câbles, herses, projecteurs...)   |
-| Expérience vécue : a faire Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci        | Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre. |
-| :heart: Ce qui vous a plu, vous a donné des idées : J'ai aimé le mélange de la technologie et de la spiritualité. En effet, l'exposition Phase Shifting Index était riche en sensation et m'a fait ressentir un mélange d'émotions contradictoires tel que la confusion totale combinée avec une sorte de sentiment de calme profond. | Éléments pertinents       | Texte à rédiger qui présente un ou des aspects inspirants, avec **justifications détaillées** (pourquoi est-ce que cela vous a plus/ vous a donné des idées ? |
-| :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement : Malgré la simplicité de l'oeuvre que j'ai bie aimé, j'aurais aimé pousser encore plus à fond l’expérience d'immersion à l'aide peut-être de sièges plus sensoriels afin d'approfondir vraiemnt le visiteur dans ma création| Éléments pertinents      |Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec **justifications détaillées** (pourquoi? comment?)  | 
-| Références     |          |hyperliens vers les sites consultés  |
