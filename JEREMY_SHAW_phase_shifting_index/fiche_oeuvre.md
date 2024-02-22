@@ -18,7 +18,7 @@ Shaw a notamment présenté ces création au *Centre Pompidou* à Paris, au *MoM
 ### Mise en place de l'œuvre
 Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de visioner les courts-métrages des deux bords. Ces écrans font face à des bancs, certains petits et à proximité des toiles, et les autres sur le long du mur, de type gradins afin d'obtnenir une meilleure vue d'ensemble de l’exposition.
 
-> **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
+> **Source** Musée d'art contemporain de Montréal, Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling <https://macm.org/expositions/jeremy-shaw/>
 
 ### Composantes et techniques
 - [ ] toiles blanches opaques et transparentes
