@@ -24,6 +24,10 @@ Shaw a notamment présenté ces création au *Centre Pompidou* à Paris, au *MoM
 ### Mise en place de l'œuvre
 Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de visioner les courts-métrages des deux bords. Ces écrans font face à des bancs, certains petits et à proximité des toiles, et les autres sur le long du mur, de type gradins afin d'obtnenir une meilleure vue d'ensemble de l’exposition.
 
+![photo](media/Phase_Shifting_Index_plan.jpg)
+
+> **Source** Documentation en lien avec l'œuvre, Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling
+
 ![photo](media/Phase_Shifting_Index_mise_en_place.png)
 
 > **Source** Musée d'art contemporain de Montréal, Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling <https://macm.org/expositions/jeremy-shaw/>
@@ -53,8 +57,16 @@ Il est primordial pour l'exposition d'avoir un plafon ouvert afin d'y accrocher 
 ### Ce qui m'a plu ♥
 J'ai aimé le mélange de la technologie et de la spiritualité. En effet, l'exposition Phase Shifting Index était riche en sensation et m'a fait ressentir un mélange d'émotions contradictoires tel que la confusion totale combinée avec une sorte de sentiment de calme profond.
 
+![photo](Phase_Shifting_Index_moment.jpg)
+
+> **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
+
 ### Aspect que je ne souhaites pas retenir pour mes propres créations ♦
 
+
+![photo](Fonderie_Darling_groupe.jpg)
+
+> **Source** Photo de moi à la Fonderie Darling, 02/02/2024
 
 ### NOTES ET PHOTOGRAPHIES LORS DE VOTRE VISITE
 
