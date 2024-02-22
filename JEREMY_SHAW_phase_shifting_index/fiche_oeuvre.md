@@ -24,6 +24,8 @@ Shaw a notamment présenté ces création au *Centre Pompidou* à Paris, au *MoM
 ### Mise en place de l'œuvre
 Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de visioner les courts-métrages des deux bords. Ces écrans font face à des bancs, certains petits et à proximité des toiles, et les autres sur le long du mur, de type gradins afin d'obtnenir une meilleure vue d'ensemble de l’exposition.
 
+![photo](media/Phase_Shifting_Index_mise_en_place.png)
+
 > **Source** Musée d'art contemporain de Montréal, Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling <https://macm.org/expositions/jeremy-shaw/>
 
 ### Composantes et techniques
@@ -36,9 +38,13 @@ Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre e
 ### Éléments nécessaires à la mise en exposition
 Il est primordial pour l'exposition d'avoir un plafon ouvert afin d'y accrocher les diverses composantes techniques telles qu’énumérées ci-haut
 
+![photo](media/Phase_Shifting_Index_plafon.jpg)
+
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
 
 ## Signification de l'œuvre et son contexte
+
+![photo](media/Phase_Shifting_Index_introduction.jpg)
 
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
 
