@@ -22,7 +22,7 @@ Shaw a notamment présenté ces création au *Centre Pompidou* à Paris, au *MoM
 ## Analyse descriptive de l'œuvre 
 *PHASE SHIFTING INDEX* installation immersive combine vidéo, son et lumière à partir de sept films VHS, 16mm et Hi-8 de différentes époques, afin de plonger le visiteur dans une boucle temporelle, et ce, à l'aide de multiples phases.
 ### Mise en place de l'œuvre
-Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de visioner les courts-métrages des deux bords. Ces écrans font face à des bancs, certains petits et à proximité des toiles, et les autres sur le long du mur, de type gradins afin d'obtnenir une meilleure vue d'ensemble de l’exposition.
+Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre eux ont même une toile transparente pour donner la possibilité de visioner les courts-métrages des deux bords. Ces écrans font face à des bancs, certains petits et à proximité des toiles, et les autres sur le long du mur, de type gradins afin d'obtnenir une meilleure vue d'ensemble de l’exposition. Le plancher est recouvert d'une moquette afin de rendre l'expérience plus chaleureuse.
 
 ![photo](media/Phase_Shifting_Index_plan.jpg)
 
@@ -40,17 +40,25 @@ Sept écrans sont disposés de façon à pouvoir naviguer autour. Deux d'entre e
 - [ ] console
 
 ### Éléments nécessaires à la mise en exposition
-Il est primordial pour l'exposition d'avoir un plafon ouvert afin d'y accrocher les diverses composantes techniques telles qu’énumérées ci-haut
+Il est primordial pour l'exposition d'avoir un plafon ouvert afin d'y accrocher les diverses composantes techniques telles qu’énumérées ci-haut, en plus de créer un effet d'une salle vaste. Sans cette grille au plafon, les toiles n'auraient pas cet effet de floter dans l'air et les hauts-parleurs seraient dans la vue des spectateurs, gâchant un peu l'effet d'immersion.
 
 ![photo](media/Phase_Shifting_Index_plafon.jpg)
 
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
 
+De plus, les banc ne sont pas non plus juste présents pour permettre aux spectateurs de s'assoir, ils renferment aussi la console qui permet de gérer l'exposition, en cachant les fils pour encore une fois ne pas dérangé l'oeil du spectateur.
+
 ## Signification de l'œuvre et son contexte
+
+À travers les vidéos, on peut observer les différentes tenues vestimentaires, styles et chorégraphies (danse moderne, de popping et de verrouillage, de sauts, de skanking hardcore et d'exercices de confiance) qui suggèrent des images historiques trouvées des années 1960 aux années 1990. Ces mouvements et actions ont pour but d'explorer les potentiels de la conscience en *brouillant notre perception de temps et de l'espace, de l’imagination et de la réalité*.
 
 ![photo](media/Phase_Shifting_Index_introduction.jpg)
 
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
+
+**“Phase Shifting Index is powerful not only because it portrays transcendent experience, but because it induces that same experience in its viewers. Shaw’s questioning and validation of the ecstatic… is taken to a different level here. We are not just watching hypnosis; we are being hypnotized.”** *—Frieze*
+
+> **Source** Site THE POLYGON *Jeremy Shaw : Phase Shifting Index* <https://thepolygon.ca/exhibition/jeremy-shaw-phase-shifting-index/>
 
 ## Expérience vécue
 Les spectateurs sont invités à se promener et à s’arrêter devant les divers écrans. Les bancs placés encourage le visionnement assis, afin de vraiment donner toute son attention.
