@@ -63,7 +63,6 @@ J'ai aimé le mélange de la technologie et de la spiritualité. En effet, l'exp
 
 ### Aspect que je ne souhaites pas retenir pour mes propres créations ♦
 
-
 ![photo](Fonderie_Darling_groupe.jpg)
 
 > **Source** Photo de moi à la Fonderie Darling, 02/02/2024
