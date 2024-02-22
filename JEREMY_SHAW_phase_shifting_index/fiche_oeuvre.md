@@ -36,10 +36,10 @@ Il est primordial pour l'exposition d'avoir un plafon ouvert afin d'y accrocher 
 
 ## Expérience vécue
 
-### Ce qui m'a plu
+### Ce qui m'a plu ♥
 J'ai aimé le mélange de la technologie et de la spiritualité. En effet, l'exposition Phase Shifting Index était riche en sensation et m'a fait ressentir un mélange d'émotions contradictoires tel que la confusion totale combinée avec une sorte de sentiment de calme profond.
 
-### Aspect que je ne souhaites pas retenir pour mes propres créations
+### Aspect que je ne souhaites pas retenir pour mes propres créations ♦
 
 
 ### NOTES ET PHOTOGRAPHIES LORS DE VOTRE VISITE
