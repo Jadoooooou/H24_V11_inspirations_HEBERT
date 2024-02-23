@@ -1,18 +1,7 @@
-**Exploration des projets en création par les étudiant.e.s de 3e année en TIM** 
+# Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 
-## OBJECTIFS POURSUIVIS 
-- [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
-- [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
-- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
-
-
-## MÉTHODE
-**Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
-- [ ] [au visionnement de la présentation de leurs projet en création](https://tim-montmorency.com/2024/) et à l'exploration de leur documentation de pré-production
-- [ ] à la visite des studios
-- [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
-
-**Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant:**
+## Rhizomatique
+*
 - le titre de chacun des projets ainsi que ses créateurs et créatrices
 - le lien de chacun avec le thème *Crescentia*
 - l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
