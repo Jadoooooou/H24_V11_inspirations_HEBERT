@@ -1,5 +1,14 @@
 # Exploration des projets en création par les étudiant.e.s de 3e année en TIM
 **Crescentia, qui signifie « croissance » en latin, met de l'avant le concept d'évolution qui apparaît sous plusieurs facettes, que ce soit de manière organique, environnementale, ou encore psychologique. C'est aussi le nom de l'exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency dont les œuvres explorent ce concept de plusieurs manières. Ce sont des créations en perpétuel mouvement, qui évoluent et se transforment au gré des actions des visiteurs.**
+### MISE EN CONTEXTE
+> Le cours synthèse *Expérience multimédia interactive* vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
+
+> L’étudiante ou l’étudiant collaborera à l’élaboration d’un projet multimédia interactif, et ce de la conception jusqu’à la présentation du produit. Il aura l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique, notamment en programmation, en conception graphique, vidéo et sonore, de même qu’en gestion et en conception de projet. Ce cours est porteur de l’un des deux volets de l’épreuve synthèse du programme, soit la réalisation d’une expérience interactive.
+
+> L’étudiant devra ainsi contribuer à la réalisation d’une expérience interactive multimédia en équipe et produire un rapport visant à rendre compte de l’ensemble des étapes de la réalisation du produit et de son processus.
+
+### TÂCHES
+> Conceptualisation et réalisation en équipe d’une installation, d’un parcours ou d’une performance multimédia interactive ancrée dans un environnement physique.
  
 ## Rhizomatique
 Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
