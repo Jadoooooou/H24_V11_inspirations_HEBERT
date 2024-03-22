@@ -1,15 +1,35 @@
-**Exploration des projets en création par les étudiant.e.s de 3e année en TIM**
+# Exploration des projets en création par les étudiant.e.s de 3e année en TIM
+**Crescentia, qui signifie « croissance » en latin, met de l'avant le concept d'évolution qui apparaît sous plusieurs facettes, que ce soit de manière organique, environnementale, ou encore psychologique. C'est aussi le nom de l'exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency dont les œuvres explorent ce concept de plusieurs manières. Ce sont des créations en perpétuel mouvement, qui évoluent et se transforment au gré des actions des visiteurs.**
  
 ## Rhizomatique
 Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
+
+**Résumé du projet :**
+Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. De nos jours, le temps controle notre vie, on est souvent occupé et la vie va trop vite. Le temps est un fil qui ralonge selon différentes temporalités, actions ou événements dans la vie. Dans notre projet, en appuyant sur la toile l'interacteur naviguera dans le cerveau pour y découvrir ses souvenirs, qui vont par la suite être révellés sur les projections immersives. Lorsque l'intéraction prend fin, la projection sur les murs va reprendre son état initale jusqu'à la prochaine intéraction. L’œuvre consiste à insiter l'interacteur à vouloir oublier le temps qui passe et de retourner dans le passé d'une personne inconnu. L'oeuvre est divisé en deux espaces qui sont liés : la toile et les projections immersives. La toile va servir de communication entre l'interacteur et les souvenirs. La toile va aussi contrôler la clarté des souvenirs qui vont être représentés en particules. Plus qu'il y aura de l'intéraction avec la toile plus les souvenirs vont être clairs. La toile, qui représente le cerveau, aura une projection qui représentera les fluides et l'allure rhizomatique du cerveau.
+
 ## Effet Papillon
 Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
+
+**Résumé du projet :**
+Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. Les visiteurs sont invités à participer à une expérience sensorielle et éducative qui dévoile les différentes étapes, de la graine à la pomme, tout en soulignant la notion complexe de l'effet papillon. La maturation du fruit est une phase clé de l'installation, où les visiteurs découvrent les conséquences finales de leurs actions. La pomme résultante devient le point focal, représentant les retombées de choix apparemment minuscules sur un système complexe.
+
 ## Kigo
 Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
+
+**Résumé du projet :**
+Un jeu interactif oû le joueur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
+
 ## Sonalux
 Antoine Haddadm, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
+
+**Résumé du projet :**
+Sonalux est une installation qui dépasse les limites du réel pour proposer un monde d'art génératif où la notion du temps est repensé dans une boucle laissant place à un voyage astral collectif. L'interacteur se voit projeter dans un espace sans contraintes où il en devient le maître par la maîtrise des pièces d'instruments qui se trouvent sur le podium.
+
 ## Canevas Cosmique
 Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
+
+**Résumé du projet :**
+Vous vous retrouvez dans un laboratoire contenant une table, après un peu de recherche vous découvrez que sur l'écran au dessus de celle-ci se trouve une simulation d'un système solaire avec laquelle vous pouvez intéragir en déposant des statues déclancheant différents phénomènes. Vous êtes invité à expérimenter sur cette table, jusqu'à ce que les scientifiques reviennent du moins...
 
 
 ## OBJECTIFS POURSUIVIS 
