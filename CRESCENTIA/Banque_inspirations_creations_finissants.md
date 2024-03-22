@@ -3,6 +3,7 @@
  
 ## Rhizomatique
 Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
+
 <https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html/>
 
 **Résumé du projet :**
