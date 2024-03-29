@@ -2,10 +2,6 @@
 
 > **Source** 
 
-Située à la Fonderie Darling, *PHASE SHIFTING INDEX* est une exposition itinérante réalisée en 2020. Elle est présentée par le Musée d’art contemporain de Montréal en partenariat avec The Polygon, Vancouver.
-
-> **Source** 
-
 ## L'artiste
 
 > **Source** 
