@@ -1,11 +1,8 @@
 # Exploration des projets par les étudiants de 3e année en TIM
 **Crescentia, qui signifie « croissance » en latin, met de l'avant le concept d'évolution qui apparaît sous plusieurs facettes, que ce soit de manière organique, environnementale, ou encore psychologique. C'est aussi le nom de l'exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency dont les œuvres explorent ce concept de plusieurs manières. Ce sont des créations en perpétuel mouvement, qui évoluent et se transforment au gré des actions des visiteurs.**
 ### MISE EN CONTEXTE
-> Le cours synthèse *Expérience multimédia interactive* vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
 
 > L’étudiante ou l’étudiant collaborera à l’élaboration d’un projet multimédia interactif, et ce de la conception jusqu’à la présentation du produit. Il aura l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique, notamment en programmation, en conception graphique, vidéo et sonore, de même qu’en gestion et en conception de projet. Ce cours est porteur de l’un des deux volets de l’épreuve synthèse du programme, soit la réalisation d’une expérience interactive.
-
-> L’étudiant devra ainsi contribuer à la réalisation d’une expérience interactive multimédia en équipe et produire un rapport visant à rendre compte de l’ensemble des étapes de la réalisation du produit et de son processus.
 
 ### TÂCHES
 > Conceptualisation et réalisation en équipe d’une installation, d’un parcours ou d’une performance multimédia interactive ancrée dans un environnement physique.
@@ -23,66 +20,44 @@ Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic
 ## Effet Papillon
 Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre
 
-<https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html/>
-
 **Résumé du projet :**
-Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. Les visiteurs sont invités à participer à une expérience sensorielle et éducative qui dévoile les différentes étapes, de la graine à la pomme, tout en soulignant la notion complexe de l'effet papillon. La maturation du fruit est une phase clé de l'installation, où les visiteurs découvrent les conséquences finales de leurs actions. La pomme résultante devient le point focal, représentant les retombées de choix apparemment minuscules sur un système complexe.
+> Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. Les visiteurs sont invités à participer à une expérience sensorielle et éducative qui dévoile les différentes étapes, de la graine à la pomme, tout en soulignant la notion complexe de l'effet papillon. La maturation du fruit est une phase clé de l'installation, où les visiteurs découvrent les conséquences finales de leurs actions. La pomme résultante devient le point focal, représentant les retombées de choix apparemment minuscules sur un système complexe.
 
-> **Source** Crescentia | ©Collège Montmorency | TIM Montmorency 2024
+**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Kigo
 Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
 
-<https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
-
 **Résumé du projet :**
-Un jeu interactif oû le joueur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
+> Un jeu interactif oû le joueur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
 
-> **Source** Crescentia | ©Collège Montmorency | TIM Montmorency 2024
+**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Sonalux
 Antoine Haddadm, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 
-<https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html/>
-
 **Résumé du projet :**
-Sonalux est une installation qui dépasse les limites du réel pour proposer un monde d'art génératif où la notion du temps est repensé dans une boucle laissant place à un voyage astral collectif. L'interacteur se voit projeter dans un espace sans contraintes où il en devient le maître par la maîtrise des pièces d'instruments qui se trouvent sur le podium.
+> Sonalux est une installation qui dépasse les limites du réel pour proposer un monde d'art génératif où la notion du temps est repensé dans une boucle laissant place à un voyage astral collectif. L'interacteur se voit projeter dans un espace sans contraintes où il en devient le maître par la maîtrise des pièces d'instruments qui se trouvent sur le podium.
 
-> **Source** Crescentia | ©Collège Montmorency | TIM Montmorency 2024
+**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Canevas Cosmique
 Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau
 
-<https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html/>
-
 **Résumé du projet :**
-Vous vous retrouvez dans un laboratoire contenant une table, après un peu de recherche vous découvrez que sur l'écran au dessus de celle-ci se trouve une simulation d'un système solaire avec laquelle vous pouvez intéragir en déposant des statues déclancheant différents phénomènes. Vous êtes invité à expérimenter sur cette table, jusqu'à ce que les scientifiques reviennent du moins...
+> Vous vous retrouvez dans un laboratoire contenant une table, après un peu de recherche vous découvrez que sur l'écran au dessus de celle-ci se trouve une simulation d'un système solaire avec laquelle vous pouvez intéragir en déposant des statues déclancheant différents phénomènes. Vous êtes invité à expérimenter sur cette table, jusqu'à ce que les scientifiques reviennent du moins...
 
-> **Source** Crescentia | ©Collège Montmorency | TIM Montmorency 2024
+**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## OBJECTIFS POURSUIVIS 
-- [ ] Compléter la recherche documentaire : appliquer une méthode de travail, utiliser des sources d'informations utiles à la recherche, sélectionner les informations à répertorier
-- [ ] Organiser le matériel multimédia : compiler le matériel, consigner l'information, organiser les données, réviser régulièrement son travail
-- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
-
-
-## MÉTHODE
-**Explorer les projets en création des étudiant.e.s de 3e année en TIM grâce :**
-- [ ] [au visionnement de la présentation de leurs projet en création](https://tim-montmorency.com/2024/) et à l'exploration de leur documentation de pré-production
-- [ ] à la visite des studios
-- [ ] à la rencontre avec des étudiant.e.s et professeurs impliqué.e.s dans le projet
-
 **Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant:**
-- le titre de chacun des projets ainsi que ses créateurs et créatrices
 - le lien de chacun avec le thème *Crescentia*
 - l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 - le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
@@ -95,23 +70,4 @@ De plus, vous devrez :
     *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 - ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
 
-
-**Vous définirez la structure de votre présentation, en insérant des titres clairs, en intégrant des photographies lorsque cela est pertinent et en créant des fichiers agréables à lire, dans lesquels on repère facilement l'information**
-
-## CRITÈRES D'ÉVALUATION 
-Voir ** dans le dossier *consigne* 
-
-La grille d'évaluation est disponible dans l'équipe TEAMS (dossiers consignes_travaux)
-
-
 LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OEULLET FREDERICKS
-
-### MISE EN CONTEXTE
-> Le cours synthèse *Expérience multimédia interactive* vise la création et la présentation d’un projet multimédia interactif réalisé en équipe.
-
-> L’étudiante ou l’étudiant collaborera à l’élaboration d’un projet multimédia interactif, et ce de la conception jusqu’à la présentation du produit. Il aura l’occasion de mettre en pratique toutes les compétences acquises au cours de sa formation technique, notamment en programmation, en conception graphique, vidéo et sonore, de même qu’en gestion et en conception de projet. Ce cours est porteur de l’un des deux volets de l’épreuve synthèse du programme, soit la réalisation d’une expérience interactive.
-
-> L’étudiant devra ainsi contribuer à la réalisation d’une expérience interactive multimédia en équipe et produire un rapport visant à rendre compte de l’ensemble des étapes de la réalisation du produit et de son processus.
-
-### TÂCHES
-> Conceptualisation et réalisation en équipe d’une installation, d’un parcours ou d’une performance multimédia interactive ancrée dans un environnement physique.
