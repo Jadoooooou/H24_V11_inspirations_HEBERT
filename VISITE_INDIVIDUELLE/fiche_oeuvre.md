@@ -1,4 +1,4 @@
-# Jeremy Shaw : *PHASE SHIFTING INDEX*
+# Mission virtuelle : *La planète rouge*
 
 > **Source** Photo de moi à l'installation de Jeremy Shaw, *PHASE SHIFTING INDEX*, Fonderie Darling, 02/02/2024
 
