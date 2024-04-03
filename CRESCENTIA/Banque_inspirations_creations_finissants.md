@@ -7,7 +7,7 @@
 **Résumé du projet :**
 > Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. Dans ce projet, en appuyant sur la toile l'interacteur naviguera dans le cerveau pour y découvrir ses souvenirs, qui vont par la suite être révellés sur les projections immersives.
 
-![photo](media/rhizomatique_plan.png)
+![photo](media/Rhizomatique/rhizomatique_plan.png)
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html/>
 
