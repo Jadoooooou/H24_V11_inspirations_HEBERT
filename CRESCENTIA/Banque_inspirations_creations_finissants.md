@@ -55,7 +55,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-## RETOUR SUR LES PROJETS
+## **RETOUR SUR LES PROJETS**
 
 Afin de réaliser ce genre de projet, il est essentiel d'avoir suivis le cours d'Interactivité ludique (offert en troisième session), Objets interactifs (offert en cinquième session) ainsi que Conception d’une expérience multimédia (offert en cinquième session).
 
