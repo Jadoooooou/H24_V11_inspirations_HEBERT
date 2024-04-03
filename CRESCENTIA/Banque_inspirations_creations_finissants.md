@@ -19,7 +19,7 @@
 *Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre*
 
 **Résumé du projet :**
-> Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. Les visiteurs sont invités à participer à une expérience sensorielle et éducative qui dévoile les différentes étapes, de la graine à la pomme, tout en soulignant la notion complexe de l'effet papillon.
+> Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. L'interacteur est invité à participer à une expérience sensorielle et éducative qui souligne la notion complexe de l'effet papillon.
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html/>
 
@@ -29,7 +29,7 @@
 *Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion*
 
 **Résumé du projet :**
-> Un jeu interactif oû le joueur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
+> Un jeu interactif oû l'interacteur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
 
@@ -49,11 +49,21 @@
 *Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau*
 
 **Résumé du projet :**
-> L'utilisateur se retrouve devant une table, où se trouve une simulation d'un système solaire avec laquelle il peut intéragir en déposant des statues déclancheant différents phénomènes. Les visiteurs sont invités à expérimenter sur cette table
+> L'interacteur se retrouve devant une table, où se trouve une simulation d'un système solaire avec laquelle il peut intéragir en déposant des statues déclancheant différents phénomènes. L'interacteur est invité à expérimenter sur cette table.
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
+## RETOUR SUR LES PROJETS
+
+Afin de réaliser ce genre de projet, il est essentiel d'avoir suivis le cours d'Interactivité ludique (offert en troisième session), Objets interactifs (offert en cinquième session) ainsi que Conception d’une expérience multimédia (offert en cinquième session).
+
+En effet, les étudiants de 3e année en TIM ont dû commencés par la base, c'est-à-dire par le cours d'Interactivité ludique. Ce cours introduit les logiciels d’intégration multimédia et transmet aux étudiants les notions de base de l’interactivité.
+
+Par la suite, le cours d'Objets interactifs est lui aussi incontournable pour la réalisation de ce projet puisqu'il permet de se familiariser avec des technologies électroniques (vus dans les projets des étudiants) et les intégrer à un système multimédia interactif.
+
+Finalement, le cours de Conception d’une expérience multimédia est évidement indispensable puisqu'il s'agit non seulement de mettre en application les éléments appris, mais en plus de rajouter un aprocessus d’idéation, une l’analyse du scénario et du scénarimage, à son adaptation, à la planification des besoins en ressources humaines et techniques et à la vérification de sa faisabilité technique.
 
 **Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant:**
 - le lien de chacun avec le thème *Crescentia*
@@ -62,7 +72,6 @@
 - noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
 
 De plus, vous devrez :
-- identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet (voir la [grille de cours du programme](https://www.cmontmorency.qc.ca/programmes/nos-programmes-detudes/techniques/techniques-dintegration-multimedia/grille-de-cours/))
 - présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
   
     *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
