@@ -57,13 +57,13 @@
 
 ## **RETOUR SUR LES PROJETS**
 
-Afin de réaliser ce genre de projet, il est essentiel d'avoir suivis le cours d'Interactivité ludique (offert en troisième session), Objets interactifs (offert en cinquième session) ainsi que Conception d’une expérience multimédia (offert en cinquième session).
+Afin de réaliser ce genre de projet, il est essentiel d'avoir suivis le cours d'**Interactivité ludique** *(offert en troisième session)*, **Objets interactifs** *(offert en cinquième session)* ainsi que **Conception d’une expérience multimédia** *(offert en cinquième session)*.
 
-En effet, les étudiants de 3e année en TIM ont dû commencés par la base, c'est-à-dire par le cours d'Interactivité ludique. Ce cours introduit les logiciels d’intégration multimédia et transmet aux étudiants les notions de base de l’interactivité.
+En effet, les étudiants de 3e année en TIM ont dû commencés par la base, c'est-à-dire par le cours d'**Interactivité ludique**. Ce cours introduit les logiciels d’intégration multimédia et transmet aux étudiants les notions de base de l’interactivité.
 
-Par la suite, le cours d'Objets interactifs est lui aussi incontournable pour la réalisation de ce projet puisqu'il permet de se familiariser avec des technologies électroniques (vus dans les projets des étudiants) et les intégrer à un système multimédia interactif.
+Par la suite, le cours d'**Objets interactifs** est lui aussi incontournable pour la réalisation de ce projet puisqu'il permet de se familiariser avec des technologies électroniques (vus dans les projets des étudiants) et les intégrer à un système multimédia interactif.
 
-Finalement, le cours de Conception d’une expérience multimédia est évidement indispensable puisqu'il s'agit non seulement de mettre en application les éléments appris, mais en plus de rajouter un aprocessus d’idéation, une l’analyse du scénario et du scénarimage, à son adaptation, à la planification des besoins en ressources humaines et techniques et à la vérification de sa faisabilité technique.
+Finalement, le cours de **Conception d’une expérience multimédia** est évidement indispensable puisqu'il s'agit non seulement de mettre en application les éléments appris, mais en plus de rajouter un aprocessus d’idéation, une l’analyse du scénario et du scénarimage, à son adaptation, à la planification des besoins en ressources humaines et techniques et à la vérification de sa faisabilité technique.
 
 **Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant:**
 - le lien de chacun avec le thème *Crescentia*
