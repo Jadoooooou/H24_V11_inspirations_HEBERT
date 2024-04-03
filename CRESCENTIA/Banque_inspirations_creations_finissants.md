@@ -5,11 +5,13 @@
 *Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic*
 
 **Résumé du projet :**
-> Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. De nos jours, le temps controle notre vie, on est souvent occupé et la vie va trop vite. Le temps est un fil qui ralonge selon différentes temporalités, actions ou événements dans la vie.
+> Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. Dans ce projet, en appuyant sur la toile l'interacteur naviguera dans le cerveau pour y découvrir ses souvenirs, qui vont par la suite être révellés sur les projections immersives.
+
+![photo](media/rhizomatique_plan.png)
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html/>
 
-![photo](media/rhizomatique_plan.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -47,7 +49,7 @@
 *Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau*
 
 **Résumé du projet :**
-> Vous vous retrouvez dans un laboratoire contenant une table, après un peu de recherche vous découvrez que sur l'écran au dessus de celle-ci se trouve une simulation d'un système solaire avec laquelle vous pouvez intéragir en déposant des statues déclancheant différents phénomènes. Vous êtes invité à expérimenter sur cette table, jusqu'à ce que les scientifiques reviennent du moins...
+> L'utilisateur se retrouve devant une table, où se trouve une simulation d'un système solaire avec laquelle il peut intéragir en déposant des statues déclancheant différents phénomènes. Les visiteurs sont invités à expérimenter sur cette table
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html/>
 
