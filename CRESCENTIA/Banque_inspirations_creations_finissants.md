@@ -65,16 +65,21 @@ Par la suite, le cours d'**Objets interactifs** est lui aussi incontournable pou
 
 Finalement, le cours de **Conception d’une expérience multimédia** est évidement indispensable puisqu'il s'agit non seulement de mettre en application les éléments appris, mais en plus de rajouter un aprocessus d’idéation, une l’analyse du scénario et du scénarimage, à son adaptation, à la planification des besoins en ressources humaines et techniques et à la vérification de sa faisabilité technique.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Lors de l'exploration des projets, j'ai pu en apprendre davantages sur les **potentimoètres**.
+
+En effet, cette composante est un type de résistance variable qui permet de receuillir une tension. Dans le cadre des projets, les potentiomètres utilisés étaient numériques, c'est-à-dire que sa résistance ne varie pas de façon mécanique, mais en fonction d'une valeur numérique qu'il reçoit. Il assure l'interaction avec l'utilisateur.
+
+Les applications de vidéos et de traitement de sons utilisées dans les projets des troisièmes possèdent des potentiomètres, permettant le control des divers paramètres relatifs au son (volume, fréquence, etc.).
+
+
 **Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant:**
 - le lien de chacun avec le thème *Crescentia*
 - l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
 - le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
 - noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
 
-De plus, vous devrez :
-- présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
-  
-    *pour cette partie, vous devrez faire des recherches pour mieux connaitre la technique et la composante technologique retenues
 - ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
 
 LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OEULLET FREDERICKS
