@@ -17,9 +17,14 @@ Rafael Lozano Hemmer n'est pas tout seul; derrière lui il y a le Studio Antimod
 
 La conférencière a souligné l'importance de la documentation dans les expositions. En effet, Jade se charge de documenter chaque composantes d'une présentation avant son envoi. Cette étape est cruciale puisque les expositions se font mondialement, donc cette pratique aide à la compréhension au seiun de l'équipe, agit comme preuve pour les douanes, et aussi pour les archives. La conférencière présente cette technique comme étant des "Beauty Shots" pour les photos, ou des "Packing Lists" pour les documents Excel.
 
-**Translation Island**
+**Translation Steam**
 
-Les points appportés par Jade se sont montrés encore plus importants, surtout lors d'une des exposition de Rafael Lozano-Hemmer, soit *Translation Island*. En effet, étant localisée à Abu Dhabi, une équipe pour réaliser cette oeuvre est demise afin de penser et surpasser certains enjeux techniques, comme dans ce cas-ci, les conditions métérologiques, le manque d'électricité et le fait d'être tout court dans un autre pays. La documentation était aussi primordial pour le transport et l'installation. 
+![photo](media/translation_island.jpg)
+
+> Photo de Translation Stream un parcours lumineux interactif à Abu Dhabi, United Arab Emirates
+> **Source** Photo de Lance Gerber à *Translation Island: Translation Stream*, Manar Abu Dhabi 2023
+
+Les points appportés par Jade se sont montrés encore plus importants, surtout lors d'une des exposition de Rafael Lozano-Hemmer, soit *Translation Stream*. En effet, étant localisée à Abu Dhabi, une équipe pour réaliser cette oeuvre est demise afin de penser et surpasser certains enjeux techniques, comme dans ce cas-ci, les conditions métérologiques, le manque d'électricité et le fait d'être tout court dans un autre pays. La documentation était aussi primordial pour le transport et l'installation. 
 
 --------------------------------------------------
 
