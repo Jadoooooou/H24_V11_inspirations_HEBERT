@@ -5,19 +5,19 @@ La conférence mettait en lumière le fonctionnement d'une exposition, plus pré
 
 --------------------------------------------------
 
-**Présentation de l'intervenante**
+### Présentation de l'intervenante
 
 Jade Séguela détient un Diplôme d'Études Collégiales en Arts et Lettres, avec spécialisation en multimédia, suivi d'un Bachelor of Fine Arts. Elle a aussi une Maîtrise en Muséologie, approfondissant ainsi ses compétences dans la gestion et la documentation des œuvres artistiques.
 
-**L'équipe derrière**
+### L'équipe derrière
 
 Rafael Lozano Hemmer n'est pas tout seul; derrière lui, il y a le Studio Antimodar. Plusieurs personnes, dont Jade, coopèrent pour la réalisation des œuvres, par exemple, une équipe de gestion, organisée en quatre "sous-équipes" : R&D, PRODUCTION, LEGACY et EXHIBITION.
 
-**La documentation**
+### La documentation
 
 La conférencière a souligné l'importance de la documentation dans les expositions. En effet, Jade se charge de documenter chaque composante d'une présentation avant son envoi. Cette étape est cruciale puisque les expositions se font mondialement, donc cette pratique aide à la compréhension au sein de l'équipe, agit comme preuve pour les douanes, et aussi pour les archives. La conférencière présente cette technique comme étant des "Beauty Shots" pour les photos, ou des "Packing Lists" pour les documents Excel.
 
-**Translation Steam**
+### Translation Steam
 
 ![photo](media/translation_island.jpg)
 
