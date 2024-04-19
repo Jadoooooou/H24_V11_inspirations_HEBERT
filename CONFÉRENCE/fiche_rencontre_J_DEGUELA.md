@@ -1,4 +1,4 @@
-# CONFÉRENCE - Gestion de collection et mise en exposition d'un artiste en art numérique (Rafael Lozano-Hemmer) 
+# CONFÉRENCE - Gestion de collection et mise en exposition
 *Mardi 16 avril 2024 - 12h30-14h00*
 
 La conférence mettait en lumière le fonctionnement d'une exposition, plus précisément comment la documentation est effcetuée ainsi que sa mise en exposition. La conférencière, Jade Séguela, joue un rôle crucial dans ce cheminement. En effet, cette dernière est registraire pour l'artiste Rafael Lozano-Hemmer.
