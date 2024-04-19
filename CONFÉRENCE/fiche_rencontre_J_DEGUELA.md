@@ -1,7 +1,7 @@
 # CONFÉRENCE - Gestion de collection et mise en exposition d'un artiste en art numérique (Rafael Lozano-Hemmer) 
 *Mardi 16 avril 2024 - 12h30-14h00*
 
-La conférence mettait en lumière les oeuvres de Rafael Lozano Hemmer et l'interactivité de certaines. Elle portait également sur fonctionnement d'une exposition, plus précisément comment la documentation est effcetuée ainsi que sa mise en exposition. La conférencière, Jade Séguela, joue un rôle crucial dans ce cheminement. En effet, cette dernière est registraire, c'est-à-dire de documenter à l'aide principalement de photos et de fichiers Excel.
+La conférence mettait en lumière le fonctionnement d'une exposition, plus précisément comment la documentation est effcetuée ainsi que sa mise en exposition. La conférencière, Jade Séguela, joue un rôle crucial dans ce cheminement. En effet, cette dernière est registraire pour l'artiste Rafael Lozano-Hemmer.
 
 --------------------------------------------------
 
@@ -11,7 +11,20 @@ Jade Séguela détient un Diplôme d'Études Collégiales en Arts et Lettres, av
 
 **L'équipe derrière**
 
-Rafael Lozano Hemmer n'est pas tout seul; derrière ce nom fut fondé au début des années 2000 le Studio Antimodar, où plusieurs personnes, dont Jade, coopère pour la réalisation des oeuvres. Par exemple, il existe une équipe de gestion, organisée en quatre "sous-équipes": R&D, PRODUCTION, LEGACY et EXHIBITION. 
+Rafael Lozano Hemmer n'est pas tout seul; derrière lui il y a le Studio Antimodar. Plusieurs personnes, dont Jade, coopère pour la réalisation des oeuvres, par exemple, une équipe de gestion, organisée en quatre "sous-équipes": R&D, PRODUCTION, LEGACY et EXHIBITION. 
 
 **La documentation**
+
+La conférencière a souligné l'importance de la documentation dans les expositions. En effet, Jade se charge de documenter chaque composantes d'une présentation avant son envoi. Cette étape est cruciale puisque les expositions se font mondialement, donc cette pratique aide à la compréhension au seiun de l'équipe, agit comme preuve pour les douanes, et aussi pour les archives. La conférencière présente cette technique comme étant des "Beauty Shots" pour les photos, ou des "Packing Lists" pour les documents Excel.
+
+**Translation Island**
+
+Les points appportés par Jade se sont montrés encore plus importants, surtout lors d'une des exposition de Rafael Lozano-Hemmer, soit *Translation Island*. En effet, étant localisée à Abu Dhabi, une équipe pour réaliser cette oeuvre est demise afin de penser et surpasser certains enjeux techniques, comme dans ce cas-ci, les conditions métérologiques, le manque d'électricité et le fait d'être tout court dans un autre pays. La documentation était aussi primordial pour le transport et l'installation. 
+
+--------------------------------------------------
+
+La conférence était très intéressante, puisque nous pouvions vraiement voir l'envers du décors d'une exposition. Dans la plupart des musées, les visiteurs ne sont pas, ou du moins très peu, informés sur la mise en exposition d'une oeuvre. De vraiment connaître les difféerents processus de créations, de documentation ainsi que d'installation est tout simplement fascinant.
+
+
+
 
