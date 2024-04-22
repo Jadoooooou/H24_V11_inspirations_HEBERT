@@ -1,10 +1,9 @@
 # Mission virtuelle : *La planète rouge*
 
-> **Source**
 
 > Grâce à ses trois missions virtuelles interactives inaugurées en 2012, le Cosmodôme se positionne comme « ludo-éducateur » de l’espace, qui propose l’éveil aux plaisirs de la science du Cosmos grâce à une approche basée sur les piliers expérientiels suivants : regarder, écouter, participer et vivre. Cette approche favorise l’appel aux sens et aux émotions afin de mobiliser l’attention intuitive et l’apprentissage dans un environnement immersif.
 >
-> **Source** Site Web du Cosmodôme [https://cosmodome.org/a-propos/)]
+> **Source** Site Web du Cosmodôme [https://cosmodome.org/)]
 
 ![photo](media/titre.png)
 
