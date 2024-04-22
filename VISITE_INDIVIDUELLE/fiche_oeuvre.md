@@ -7,14 +7,11 @@ Parmis les nombreuses activités offertes au Cosmodôme, les missions virtuelles
 ## La planète rouge
 
 <div>
-  <img style="vertical-align:middle" src="https://placehold.it/60x60">
-  <span style="">Works.</span>
+  <img style="vertical-align:middle" src=![photo](media/affiche.webp)>
+  <span style="">Aussitôt installé dans la capsule d’un vaisseau spatial, vous vous éloignerez de la Terre à une vitesse vertigineuse. Le but de ce périple? Nul autre que la planète rouge! Seuls, à des milliards de kilomètres de la Terre, vous devrez affronter des situations imprévisibles, vous habituer à des conditions de voyage extrêmes, lutter pour préserver votre santé physique et morale et réussir des prouesses techniques inégalées. Devenez les premiers à tenter cette périlleuse odyssée vers la planète Mars!</span>
 </div>
 
-![photo](media/affiche.webp)
-
-> Aussitôt installé dans la capsule d’un vaisseau spatial, vous vous éloignerez de la Terre à une vitesse vertigineuse. Le but de ce périple? Nul autre que la planète rouge! Seuls, à des milliards de kilomètres de la Terre, vous devrez affronter des situations imprévisibles, vous habituer à des
-conditions de voyage extrêmes, lutter pour préserver votre santé physique et morale et réussir des prouesses techniques inégalées. Devenez les premiers à tenter cette périlleuse odyssée vers la planète Mars!
+> 
 >
 > **Source** 
 
