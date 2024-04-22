@@ -1,36 +1,34 @@
 # Mission virtuelle : *La planète rouge*
 
+> **Source**
+
+Parmis les nombreuses activités offertes au Cosmodôme, les missions virtuelles sont celles les plus appréciés. Il s'agit de trois activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
+
+## La planète rouge
+
+> Aussitôt installé dans la capsule d’un vaisseau spatial, vous vous éloignerez de la Terre à une vitesse vertigineuse. Le but de ce périple? Nul autre > que la planète rouge! Seuls, à des milliards de kilomètres de la Terre, vous devrez affronter des situations imprévisibles, vous habituer à des
+> conditions de voyage extrêmes, lutter pour préserver votre santé physique et morale et réussir des prouesses techniques inégalées. Devenez les
+> premiers >à tenter cette périlleuse odyssée vers la planète Mars!
+>
 > **Source** 
 
-## L'artiste
+### Analyse descriptive de l'œuvre 
 
 > **Source** 
-
-## Analyse descriptive de l'œuvre 
 
 ### Mise en place de l'œuvre
-
-> **Source** 
 
 ### Composantes et techniques
 - [ ] 
 
-### Éléments nécessaires à la mise en exposition
+> **Source** 
+
+### Signification de l'œuvre
 
 > **Source** 
 
-## Signification de l'œuvre et son contexte
-
-> **Source** 
-
-## Expérience vécue
+### Expérience vécue
 
 ### Ce qui m'a plu ♥
 
-> **Source** 
-
-### Aspect que je ne souhaites pas retenir pour mes propres créations ♦
-
 ## Mission virtuelle : La planète rouge, Fiche d'œuvre
-
-> **Source** 
