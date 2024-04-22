@@ -2,7 +2,9 @@
 
 > **Source**
 
-Parmis les nombreuses activités offertes au Cosmodôme, les missions virtuelles sont celles les plus appréciés. Il s'agit de trois activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
+> Grâce à ses trois missions virtuelles interactives inaugurées en 2012, le Cosmodôme se positionne comme « ludo-éducateur » de l’espace, qui propose l’éveil aux plaisirs de la science du Cosmos grâce à une approche basée sur les piliers expérientiels suivants : regarder, écouter, participer et vivre. Cette approche favorise l’appel aux sens et aux émotions afin de mobiliser l’attention intuitive et l’apprentissage dans un environnement immersif.
+>
+> **Source** Site Web du Cosmodôme [https://cosmodome.org/a-propos/)]
 
 ![photo](media/titre.png)
 
@@ -11,6 +13,8 @@ Parmis les nombreuses activités offertes au Cosmodôme, les missions virtuelles
 > **Source** 
 
 ## Analyse descriptive de l'œuvre 
+
+Parmis les nombreuses activités offertes au Cosmodôme, les missions virtuelles sont celles les plus appréciés. Il s'agit de trois activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
 
 > **Source** 
 
