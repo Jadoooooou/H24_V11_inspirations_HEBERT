@@ -1,35 +1,4 @@
 # **TRAVAIL 3 - PRÉSENTATION ORALE (20%)**  Semaines 14-15 (selon horaire déterminé à la semaine 12)	
-Consignes du travail (Communication efficace de ses idées et de ses choix : présentation orale d’une œuvre, de l’expérience vécue (visite individuelle) et de ses caractéristiques inspirantes (avec support visuel directement dans le GitHub - fichier .md)
-
-
-
-## OBJECTIFS POURSUIVIS
-
-- [ ] Transmettre les résultats de la documentation : exploiter les méthodes de transmission de l'insformation, produire des rapports pertinents et explicites, communiquer efficacement ses idées
-
-## LA COMMUNICATION ORALE
-Partager à vos collègues de classe l'oeuvre ou le dispositif multimédia que vous avez expérimenté lors de votre visite individuelle. Le support visuel sera votre fiche de présentation de cette oeuvre ou de ce dispositif et de votre expérience dans votre banque d'inspirations.
-
-## CE QUI EST ATTENDU
-**Une présentation orale de 6 à 8 minutes appuyée visuellement par votre fiche de présentation (banque d'inspirations)**
-*Il n'y a donc pas de PowerPoint ou autre diaporama à réaliser. Votre support visuel sera votre fiche de présentation dans votre répertoire GitHub*
-
-## MÉTHODE
-- [ ] Identifier la visite que vous souhaitez effectuer (voir Wiki du cours)
-- [ ] Se renseigner sur l'exposition et le lieu choisis (et réserver un billet si nécessaire)
-- [ ] Effectuer la visite de l'exposition
-      SE RÉFÉRER À LA GRILLE DES INFORMATIONS À DOCUMENTER POUR LA BANQUE D'INSPIRATION (TP2)
-- [ ] Créer un dossier dans votre banque d'inspirations pour cette visite, en respectant les étapes    
-- [ ] Observer, expérimenter, interagir avec (lorsque permis) l'oeuvre ou le dispositif multimédia que vous présenterez
-- [ ] Prendre des notes
-- [ ] Faire des photographies
-- [ ] Faire des croquis
-- [ ] Faire de courts vidéos
-- [ ] Poser des questions au personnel du musée ou de la galerie si nécessaire
-- [ ] Faire des recherches complémentaires
-- [ ] fiche de présentation de l'oeuvre ou du dispositif retenu, médias pertinents
-- [ ] Faire un plan de la communication orale
-- [ ] Répéter la communication orale pour communiquer efficacement son propos 
 
 ## PLAN DE LA PRÉSENTATION
 **Vous devrez, en plus de votre fiche_Oeuvre, faire un plan de votre présentation orale (plan_oral.md) qui sera intégré à votre banque d'inspirations, dans le dossier de votre visite individuelle. Il respectera la structure suivante**:
