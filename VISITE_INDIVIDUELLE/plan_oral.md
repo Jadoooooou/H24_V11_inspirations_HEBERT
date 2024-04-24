@@ -1,14 +1,14 @@
-# PRÉSENTATION ORALE
-## PLAN DE LA PRÉSENTATION
+# **PRÉSENTATION ORALE**
+# PLAN DE LA PRÉSENTATION
 
-### Introduction :
+## Introduction :
 
 - [ ] *Objectif de votre communication*
 
 
 
 
-### Développement :
+## Développement :
 
 - [ ] *Informations sur l'oeuvre et le lieu d'exposition*
 
@@ -43,7 +43,7 @@
      
 - [ ] *Liens avec autres oeuvres*
 
-### Conclusion :
+## Conclusion :
 
 Informations sur l'oeuvre et le lieu d'exposition // Présentation détaillée de l'oeuvre // Expérience vécue // Appréciation critique et justifications // Liens avec autres oeuvres
 
