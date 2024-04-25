@@ -2,7 +2,8 @@
 ## Informations sur l'oeuvre et le lieu d'exposition
 
 <img align="left" width="200" height="300" src="media/affiche.png">
-
+<br/>
+<br/>
 - **Titre:** La planète rouge
 - **Nom de la firme:** Cosmodôme
 - **Année de réalisation:** 2012
