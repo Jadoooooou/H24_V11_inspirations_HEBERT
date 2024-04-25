@@ -48,6 +48,11 @@ L'expérience du spectateur est très bonifiée, principalement en raison des di
 
 <img align="right" width="300" height="250" src="media/Kigo/kigo_plan.png">
 
+Contrairement aux projets présentés plus haut, KIGO se concentre davantage sur le plan de la progression psychologique ressentis lors que l'on joue à un jeux. Leur concept ressemble à celui d'un jeux vidéo de réalité augmentée, notament par le suivis des mouvements du spectateur. 
+
+Comme on peut l'obersver ci-contre, le plan est de vue aérienne. L'espace pour la mise en expostion est relativement grand, ce qui favorise le déplacement, un important détail puisque que l'oeuvre dépend justement des mouvements du spectateur. Deux kinets sont disposés en avant et aussi en arrière du spectateur afin de bien capter les mouvements de ce dernier. Les hauts-parleurs et la projection murale est bien sur aussi importants afin de rendre l'expérience possible et agréable.
+
+L'expérience est définitivement amusante et réaliste, en plus d'avoir une touche de futurisme apporter par le côté artistique de l'oeuvre.
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
 
