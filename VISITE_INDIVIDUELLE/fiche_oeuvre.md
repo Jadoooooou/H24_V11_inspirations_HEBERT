@@ -31,7 +31,7 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
  <img align="top" width="350" height="250" src="media/couloir.jpeg">
  </div>
 
-> **Source** VERGO, Projets / Sports et Loisirs, Salle de spectacle le Cosmodôme – Laval (https://vergo.com/fr/portfolio_page/construction-loisirs-salle-spectacle-cosmodome-laval/)
+> **Source** VERGO, Projets / Sports et Loisirs, Salle de spectacle le Cosmodôme – Laval [https://vergo.com/fr/portfolio](https://vergo.com/fr/portfolio_page/construction-loisirs-salle-spectacle-cosmodome-laval/)
 
 - **Composantes:**
   - écrans (certains tactiles)
