@@ -30,13 +30,13 @@ Le sentiment recherché pour cette exposition est très bien ressentis: le spect
 
 ![photo](media/Effet-Papillon/effet_papillon_mise_en_place.jpeg)
 
+**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html/>
+
 Dans cette installation interactive, le but est de conscientiser le spectateur à l'impact des gestes du quotien, ainsi qu'à leurs répercusions. L'oeuvre est représentée sous le thème organique, mais le message s'applique dans chaque aspect de la vie, tant sur le plan écologique que social.
 
 Effet Papillon se déroule dans un petit studio, où le spectateur peut vivre l'expérience en 360 degrés, et peut même se déplacer afin de voir l'expositon sius plusieurs angles de vues différents. Le studio est composé de multiples hauts-parleurs, projecteurs et girlandes de lumières et aussi d'une "pôle" où y sont accrochés plusieurs petits écrans. Trois "stations" permet l’interaction entre l'exposition et le spectateur, afin de faire progresser l'oeuvre.
 
 L'expérience du spectateur est très bonifiée, principalement en raison des dispositifs qui font avancer l'exposition. De plus, la petite pièce permet de vraiement "entrer" dans l'univers de l'oeuvre, et d'être totalement immergé.
-
-**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
