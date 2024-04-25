@@ -22,7 +22,7 @@ Pour la mission *La planète rouge*, le spectateur est amené à construire un c
 - **Fonction:** Transmettre la passion des sciences de l’espace et la culture scientifique
 - **Mise en place de l'œuvre:** L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
 
-<div>
+<div align="center">
 <img align="top" width="350" height="250" src="media/salle.jpeg">
 <img align="top" width="350" height="250" src="media/interieur.jpeg">
 </div>
