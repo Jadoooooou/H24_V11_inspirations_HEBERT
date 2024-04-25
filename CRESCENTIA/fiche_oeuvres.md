@@ -40,7 +40,7 @@ Le sentiment recherché pour cette exposition est très bien ressentis: le spect
 **Résumé du projet :**
 > Un jeu interactif oû l'interacteur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
 
-<img align="right" width="175" height="250" src="media/Kigo/kigo_plan.png">
+<img align="right" width="300" height="250" src="media/Kigo/kigo_plan.png">
 
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
