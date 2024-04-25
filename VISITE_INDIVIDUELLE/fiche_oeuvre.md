@@ -33,7 +33,6 @@ Pour la mission *La planète rouge*, le spectateur est amené à construire un c
   - bracelets connectés
 
 > **Source**
----------------------------------------------
 
 ## Expérience vécue
 
