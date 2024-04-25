@@ -14,7 +14,7 @@
 
 ## Présentation détaillée de l'oeuvre
 
-<img align="right" width="175" height="250" src="media/salle.jpeg">
+<img align="right" width="300" height="250" src="media/salle.jpeg">
 
 Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
 
