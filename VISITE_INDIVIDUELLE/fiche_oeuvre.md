@@ -27,7 +27,7 @@ Pour la mission *La planète rouge*, le spectateur est amené à construire un c
 <img align="top" width="350" height="250" src="media/interieur.jpeg">
 </div>
 
-> **Source**
+> **Source** À droite, Musée d'art contemporain de Montréal, Jeremy Shaw, PHASE SHIFTING INDEX, Fonderie Darling https://macm.org/expositions/jeremy-shaw/
 
 - **Composantes:**
   - écrans (certains tactiles)
