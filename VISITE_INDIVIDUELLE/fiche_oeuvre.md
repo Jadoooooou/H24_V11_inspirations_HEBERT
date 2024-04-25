@@ -14,11 +14,12 @@
 
 ## Présentation détaillée de l'oeuvre
 
+<img align="right" width="175" height="250" src="media/salle.jpeg">
+
 Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
 
 Pour la mission *La planète rouge*, le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. 
 
-<img align="right" width="175" height="250" src="media/salle.jpeg">
 > **Source**
 
 - **Type d'installation:** Permanente
