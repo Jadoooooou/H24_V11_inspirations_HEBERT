@@ -12,36 +12,34 @@
 - **Infos sur le lieu:** Inauguré en 1994, le Cosmodôme de Laval est une institution entièrement consacrée aux sciences de l’espace.
 - **Date de la visite:** 01/03/2024
 
-
-## Analyse descriptive de l'œuvre 
+## Présentation détaillée de l'oeuvre
 
 Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
 
-Pour la mission *La planète rouge*, le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. Le tout commence par une petite vidéo expliquative de notre mission. À la fin de celle-ci, une seconde salle s'ouvre pour poursuivre l'aventure. Pour passer de salles en salles, des bracelets connectés sont utilisés pour ouvrir les portes ainsi que pour certains jeux interactifs.
+Pour la mission *La planète rouge*, le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. 
 
-Tout au long de la mission, des vidéos, des lumières et de la musique accompagne les jeux afin de vraiment rendre l'expérience immersive.
+> **Source**
 
-La mission se termine avec une dernière vidéo qui conscientise le spectateur sur les possibilités que renferme Mars et les nombreuses avantures spatiales et celles à venir. 
+### Fonction
+Transmettre la passion des sciences de l’espace et la culture scientifique
 
-> **Source** 
+---------------------------------------------
 
 ### Mise en place de l'œuvre
 
 L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
-
 > **Source**
+---------------------------------------------
 
-Chaques salles qui ont pour fonction de montrer des courts métrages sont équipées de bancs pour permettre de s'assoir, tandis que celles qui sont pour les jeux sont relativement plus grande pour permettre le déplacement, en plus d'avoir des tables ou des écrans tactiles.
-
-### Composantes et techniques
+### Composantes
 - écrans (certains tactiles)
 - capteurs
 - lumières
 - haut-parleurs
+- bracelets connectés
 
-Comme mentionné plus haut, des bracelets connectés permet le passage de salles en salles, en plus d<être utile pour certains jeux interactifs.
-
-> **Source** 
+> **Source**
+---------------------------------------------
 
 ### Signification de l'œuvre
 
