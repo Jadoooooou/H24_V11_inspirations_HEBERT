@@ -31,12 +31,12 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
 
   - **Type d'installation:** Cosmodôme
   - **Fonction:** Ce genre d'exposition fût créer dans le but de transmettre la passion des sciences de l’espace et la culture scientifique
-  - **Mise en espace:** Chaques salles qui ont pour fonction de montrer des courts métrages sont équipées de bancs pour permettre de s'assoir, tandis que celles qui sont pour les jeux sont relativement plus grande pour permettre le déplacement, en plus d'avoir des tables ou des écrans tactiles.
+  - **Mise en espace:** L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial. Chaques salles qui ont pour fonction de montrer des courts métrages sont équipées de bancs pour permettre de s'assoir, tandis que celles qui sont pour les jeux sont relativement plus grande pour permettre le déplacement, en plus d'avoir des tables ou des écrans tactiles.
   - **Composantes:** écrans (certains tactiles) // capteurs // lumières // haut-parleurs // Comme mentionné plus haut, des bracelets connectés permet le passage de salles en salles, en plus d<être utile pour certains jeux interactifs.
      
 - [ ] *Expérience vécue*
 
-  - **Description de l'expérience:**  Adoré le mélange de vidéos et d'interactions, en plus de devoir se déplacer dans le "vaisseau", augemnter vraiment l'expérience. Le Cosmodome base ses missions sur les piliers expérientiels suivants : regarder, écouter, participer et vivre. Commence à avoir de l'âge au niveau de la rapidité de l’interactivité.
+  - **Description de l'expérience:**  Adoré le mélange de vidéos et d'interactions, en plus de devoir se déplacer dans le "vaisseau", augemnter vraiment l'expérience. Le Cosmodome base ses missions sur les piliers expérientiels suivants : regarder, écouter, participer et vivre. Cette approche favorise l’appel aux sens et aux émotions afin de mobiliser l’attention intuitive et l’apprentissage dans un environnement immersif. Commence à avoir de l'âge au niveau de la rapidité de l’interactivité.
      
 - [ ] *Appréciation critique et justifications*
 
