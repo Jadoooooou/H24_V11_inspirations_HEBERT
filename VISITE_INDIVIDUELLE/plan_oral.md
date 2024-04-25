@@ -20,23 +20,17 @@
      
 - [ ] *Présentation détaillée de l'oeuvre*
 
-  - **Description:**
-Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
+Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.Le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. Le tout commence par une petite vidéo expliquative de notre mission. À la fin de celle-ci, une seconde salle s'ouvre pour poursuivre l'aventure. Pour passer de salles en salles, des bracelets connectés sont utilisés pour ouvrir les portes ainsi que pour certains jeux interactifs. Tout au long de la mission, des vidéos, des lumières et de la musique accompagne les jeux afin de vraiment rendre l'expérience immersive. La mission se termine avec une dernière vidéo qui conscientise le spectateur sur les possibilités que renferme Mars et les nombreuses avantures spatiales et celles à venir.
 
-Le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. Le tout commence par une petite vidéo expliquative de notre mission. À la fin de celle-ci, une seconde salle s'ouvre pour poursuivre l'aventure. Pour passer de salles en salles, des bracelets connectés sont utilisés pour ouvrir les portes ainsi que pour certains jeux interactifs.
+Ce genre d'exposition fût créer dans le but de transmettre la passion des sciences de l’espace et la culture scientifique
 
-Tout au long de la mission, des vidéos, des lumières et de la musique accompagne les jeux afin de vraiment rendre l'expérience immersive.
+L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial. Chaques salles qui ont pour fonction de montrer des courts métrages sont équipées de bancs pour permettre de s'assoir, tandis que celles qui sont pour les jeux sont relativement plus grande pour permettre le déplacement, en plus d'avoir des tables ou des écrans tactiles.
 
-La mission se termine avec une dernière vidéo qui conscientise le spectateur sur les possibilités que renferme Mars et les nombreuses avantures spatiales et celles à venir.
-
-  - **Type d'installation:** Cosmodôme
-  - **Fonction:** Ce genre d'exposition fût créer dans le but de transmettre la passion des sciences de l’espace et la culture scientifique
-  - **Mise en espace:** L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial. Chaques salles qui ont pour fonction de montrer des courts métrages sont équipées de bancs pour permettre de s'assoir, tandis que celles qui sont pour les jeux sont relativement plus grande pour permettre le déplacement, en plus d'avoir des tables ou des écrans tactiles.
-  - **Composantes:** écrans (certains tactiles) // capteurs // lumières // haut-parleurs // Comme mentionné plus haut, des bracelets connectés permet le passage de salles en salles, en plus d<être utile pour certains jeux interactifs.
+Comme mentionné plus haut, des bracelets connectés permet le passage de salles en salles, en plus d<être utile pour certains jeux interactifs.
      
 - [ ] *Expérience vécue*
 
-  - **Description de l'expérience:**  Adoré le mélange de vidéos et d'interactions, en plus de devoir se déplacer dans le "vaisseau", augemnter vraiment l'expérience. Le Cosmodome base ses missions sur les piliers expérientiels suivants : regarder, écouter, participer et vivre. Cette approche favorise l’appel aux sens et aux émotions afin de mobiliser l’attention intuitive et l’apprentissage dans un environnement immersif. Commence à avoir de l'âge au niveau de la rapidité de l’interactivité.
+Adoré le mélange de vidéos et d'interactions, en plus de devoir se déplacer dans le "vaisseau", augemnter vraiment l'expérience. Le Cosmodome base ses missions sur les piliers expérientiels suivants : regarder, écouter, participer et vivre. Cette approche favorise l’appel aux sens et aux émotions afin de mobiliser l’attention intuitive et l’apprentissage dans un environnement immersif. Commence à avoir de l'âge au niveau de la rapidité de l’interactivité.
      
 - [ ] *Appréciation critique et justifications*
 
@@ -45,6 +39,7 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
   - **à ne pas retenir:** Trop de clash entre les salles, plus de melange afin de creer une meilleure symbiose.
      
 - [ ] *Liens avec autres oeuvres*
+En comparaison avec la première oeuvre visitée, c'est-à-dire, Jeremy
 
 ## Conclusion :
 
