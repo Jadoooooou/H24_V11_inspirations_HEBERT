@@ -18,7 +18,7 @@ Les missions virtuelles sont des activités interactives d'une durée d"une heur
 
 Pour la mission *La planète rouge*, le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. 
 
-![photo](media/salle.jpeg)
+<img align="right" width="175" height="250" src="media/salle.jpeg">
 > **Source**
 
 - **Type d'installation:** Permanente
