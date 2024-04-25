@@ -41,7 +41,7 @@ Pour la mission *La planète rouge*, le spectateur est amené à construire un c
 
 Étant moi même mordu de l'espace, j'ai grandement apprécié cette mission virtuelle. L'exposition réussit grandement à piquer notre attention, nous faisant oublier le temps qui passe, un facteur que je trouve extrêmenent important. De plus, la mission La planète rouge est pour tous les âges, en plus de pouvoir se faire en petit et plus grand groupe. Il est vrai que l'exposition commence à avoir de l'âge, mais cela ne gâche point l'expérience.
 
-> La mission La planète rouge relate non seulement des évènements/missions du passé, de celles du présent, mais aussi des possibles que le future nous réserve, laissant les visiteurs se questionner et vouloir en savoir plus.
+> ★ La mission La planète rouge relate non seulement des évènements/missions du passé, de celles du présent, mais aussi des possibles que le future nous réserve, laissant les visiteurs se questionner et vouloir en savoir plus ★
 
 ### À ne pas retenir
 
