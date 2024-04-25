@@ -28,7 +28,7 @@ Le sentiment recherché pour cette exposition est très bien ressentis: le spect
 **Résumé du projet :**
 > Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. L'interacteur est invité à participer à une expérience sensorielle et éducative qui souligne la notion complexe de l'effet papillon.
 
-![photo](media/Effet-Papillon/effet_papillon_plan.png)
+![photo](media/Effet-Papillon/effet_papillon_mise_en_place.jpeg)
 
 Dans cette installation interactive, le but est de conscientiser le spectateur à l'impact des gestes du quotien, ainsi qu'à leurs répercusions. L'oeuvre est représentée sous le thème organique, mais le message s'applique dans chaque aspect de la vie, tant sur le plan écologique que social.
 
