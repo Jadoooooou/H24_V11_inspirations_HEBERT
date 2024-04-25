@@ -33,8 +33,6 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
 
 > **Source** VERGO, Projets / Sports et Loisirs, Salle de spectacle le Cosmodôme – Laval [https://macm.org/expositions/jeremy-shaw/](https://vergo.com/fr/portfolio_page/construction-loisirs-salle-spectacle-cosmodome-laval/)
 
-<img align="left" width="175" height="150" src="media/bracelet.png">
-
 - **Composantes:**
   - écrans (certains tactiles)
   - capteurs
