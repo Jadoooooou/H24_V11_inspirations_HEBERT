@@ -1,14 +1,15 @@
 # Mission virtuelle : *La planète rouge*
+## Informations sur l'oeuvre et le lieu d'exposition
 
-> Grâce à ses trois missions virtuelles interactives inaugurées en 2012, le Cosmodôme se positionne comme « ludo-éducateur » de l’espace, qui propose l’éveil aux plaisirs de la science du Cosmos grâce à une approche basée sur les piliers expérientiels suivants : regarder, écouter, participer et vivre. Cette approche favorise l’appel aux sens et aux émotions afin de mobiliser l’attention intuitive et l’apprentissage dans un environnement immersif.
->
-> **Source** Site Web du Cosmodôme https://cosmodome.org/
+- **Titre:** La planète rouge
+- **Nom de la firme:** Cosmodôme
+- **Année de réalisation:** 2012
+- **Nom de l'exposition:** Mission virtuelle
+- **Type d'exposition:** Permanente
+- **Lieu de mise en exposition:** Cosmodôme
+- **Infos sur le lieu:** Inauguré en 1994, le Cosmodôme de Laval est une institution entièrement consacrée aux sciences de l’espace.
+- **Date de la visite:** 01/03/2024
 
-![photo](media/titre.png)
-
-> Aussitôt installé dans la capsule d’un vaisseau spatial, vous vous éloignerez de la Terre à une vitesse vertigineuse. Le but de ce périple? Nul autre que la planète rouge! Seuls, à des milliards de kilomètres de la Terre, vous devrez affronter des situations imprévisibles, vous habituer à des conditions de voyage extrêmes, lutter pour préserver votre santé physique et morale et réussir des prouesses techniques inégalées. Devenez les premiers à tenter cette périlleuse odyssée vers la planète Mars!
->
-> **Source** Site Web du Cosmodôme https://cosmodome.org/ 
 
 ## Analyse descriptive de l'œuvre 
 
