@@ -44,6 +44,8 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
 
 ## Expérience vécue
 
+### Le Cosmodome base ses missions sur les piliers expérientiels suivants : *regarder, écouter, participer et vivre*. Cette approche favorise l’appel aux sens et aux émotions afin de mobiliser l’attention intuitive et l’apprentissage dans un environnement immersif.
+
 ## Appréciation critique et justifications
 ### Ce qui m'a plu ♥
 
