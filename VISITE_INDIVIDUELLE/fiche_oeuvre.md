@@ -1,7 +1,7 @@
 # Mission virtuelle : *La planète rouge*
 ## Informations sur l'oeuvre et le lieu d'exposition
 
-<img align="left" width="400" height="300" src="media/affiche.png">
+<img align="left" width="200" height="300" src="media/affiche.png">
 
 - **Titre:** La planète rouge
 - **Nom de la firme:** Cosmodôme
