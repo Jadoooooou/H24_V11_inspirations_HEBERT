@@ -7,7 +7,7 @@
 - **Nom de la firme:** Cosmodôme
 - **Année de réalisation:** 2012
 - **Nom de l'exposition:** Mission virtuelle
-- **Type d'exposition:** Permanente
+- **Type d'exposition:** Immersive et complantative 
 - **Lieu de mise en exposition:** Cosmodôme
 - **Infos sur le lieu:** Inauguré en 1994, le Cosmodôme de Laval est une institution entièrement consacrée aux sciences de l’espace.
 - **Date de la visite:** 01/03/2024
@@ -19,22 +19,18 @@ Les missions virtuelles sont des activités interactives d'une durée d"une heur
 Pour la mission *La planète rouge*, le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. 
 
 > **Source**
-### Type d'installation: Permanente
 
-### Fonction : Transmettre la passion des sciences de l’espace et la culture scientifique
-
----------------------------------------------
-
-### Mise en place de l'œuvre : L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
+- **Type d'installation:** Permanente
+- **Fonction:** Transmettre la passion des sciences de l’espace et la culture scientifique
+- **Mise en place de l'œuvre:** L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
 > **Source**
----------------------------------------------
 
-### Composantes
-- écrans (certains tactiles)
-- capteurs
-- lumières
-- haut-parleurs
-- bracelets connectés
+- **Composantes:**
+  - écrans (certains tactiles)
+  - capteurs
+  - lumières
+  - haut-parleurs
+  - bracelets connectés
 
 > **Source**
 ---------------------------------------------
