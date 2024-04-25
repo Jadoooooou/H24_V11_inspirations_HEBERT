@@ -16,7 +16,11 @@
 
 Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
 
-Pour la mission *La planète rouge*, le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. 
+Pour la mission *La planète rouge*, le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. Le tout commence par une petite vidéo expliquative de notre mission. À la fin de celle-ci, une seconde salle s'ouvre pour poursuivre l'aventure. Pour passer de salles en salles, des bracelets connectés sont utilisés pour ouvrir les portes ainsi que pour certains jeux interactifs.
+
+Tout au long de la mission, des vidéos, des lumières et de la musique accompagne les jeux afin de vraiment rendre l'expérience immersive.
+
+La mission se termine avec une dernière vidéo qui conscientise le spectateur sur les possibilités que renferme Mars et les nombreuses avantures spatiales et celles à venir.
 
 - **Type d'installation:** Permanente
 - **Fonction:** Transmettre la passion des sciences de l’espace et la culture scientifique
