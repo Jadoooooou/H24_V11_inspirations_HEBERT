@@ -40,7 +40,7 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
   - haut-parleurs
   - bracelets connectés
 
-> **Source**
+<img align="right" width="175" height="250" src="media/bracelet.png">
 
 ## Expérience vécue
 
