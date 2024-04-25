@@ -28,7 +28,6 @@ Pour la mission *La planète rouge*, le spectateur est amené à construire un c
  </div>
 
 > **Source** VERGO, Projets / Sports et Loisirs, Salle de spectacle le Cosmodôme – Laval [https://macm.org/expositions/jeremy-shaw/](https://vergo.com/fr/portfolio_page/construction-loisirs-salle-spectacle-cosmodome-laval/)
->
 
 - **Composantes:**
   - écrans (certains tactiles)
