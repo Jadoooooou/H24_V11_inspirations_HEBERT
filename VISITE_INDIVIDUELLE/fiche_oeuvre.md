@@ -19,15 +19,13 @@ Les missions virtuelles sont des activités interactives d'une durée d"une heur
 Pour la mission *La planète rouge*, le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. 
 
 > **Source**
+### Type d'installation: Permanente
 
-### Fonction
-Transmettre la passion des sciences de l’espace et la culture scientifique
+### Fonction : Transmettre la passion des sciences de l’espace et la culture scientifique
 
 ---------------------------------------------
 
-### Mise en place de l'œuvre
-
-L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
+### Mise en place de l'œuvre : L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
 > **Source**
 ---------------------------------------------
 
