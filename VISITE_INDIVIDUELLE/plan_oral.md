@@ -5,8 +5,6 @@
 - [ ] *Objectif de votre communication*
 
 
-
-
 ## Développement :
 
 - [ ] *Informations sur l'oeuvre et le lieu d'exposition*
@@ -22,7 +20,8 @@
      
 - [ ] *Présentation détaillée de l'oeuvre*
 
-  - **Description:** Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
+  - **Description:**
+Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.
 
 Le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. Le tout commence par une petite vidéo expliquative de notre mission. À la fin de celle-ci, une seconde salle s'ouvre pour poursuivre l'aventure. Pour passer de salles en salles, des bracelets connectés sont utilisés pour ouvrir les portes ainsi que pour certains jeux interactifs.
 
@@ -31,25 +30,23 @@ Tout au long de la mission, des vidéos, des lumières et de la musique accompag
 La mission se termine avec une dernière vidéo qui conscientise le spectateur sur les possibilités que renferme Mars et les nombreuses avantures spatiales et celles à venir.
 
   - **Type d'installation:** Cosmodôme
-  - **Fonction:** Cosmodôme
-  - **Mise en espace:** Mission virtuelle
-  - **Composantes:** Permanente
-  - **Éléments:** Cosmodôme
+  - **Fonction:** Ce genre d'exposition fût créer dans le but de transmettre la passion des sciences de l’espace et la culture scientifique
+  - **Mise en espace:** Chaques salles qui ont pour fonction de montrer des courts métrages sont équipées de bancs pour permettre de s'assoir, tandis que celles qui sont pour les jeux sont relativement plus grande pour permettre le déplacement, en plus d'avoir des tables ou des écrans tactiles.
+  - **Composantes:** écrans (certains tactiles) // capteurs // lumières // haut-parleurs // Comme mentionné plus haut, des bracelets connectés permet le passage de salles en salles, en plus d<être utile pour certains jeux interactifs.
      
 - [ ] *Expérience vécue*
 
-  - **Description de l'expérience:** 
-  - **Description de l'interactivité:** Commence à avoir de l'âge
+  - **Description de l'expérience:**  Adoré le mélange de vidéos et d'interactions, en plus de devoir se déplacer dans le "vaisseau", augemnter vraiment l'expérience. Le Cosmodome base ses missions sur les piliers expérientiels suivants : regarder, écouter, participer et vivre. Commence à avoir de l'âge au niveau de la rapidité de l’interactivité.
      
 - [ ] *Appréciation critique et justifications*
 
-  - **❤️:** Grandement apprécié 
-  - **idées:** Cosmodôme
-  - **à ne pas retenir:** 
+  - **❤️:** Étant moi même mordu de l'espace, j'ai grandement apprécié cette mission virtuelle. L'exposition réussit grandement à piquer notre attention, nous faisant oublier le temps qui passe, un facteur que je trouve extrêmenent important. De plus, la mission La planète rouge est pour tous les âges, en plus de pouvoir se faire en petit et plus grand groupe. Il est vrai que l'exposition commence à avoir de l'âge, mais cela ne gâche point l'expérience.
+  - **idées:** La mission La planète rouge relate non seulement des évènements/missions du passé, de celles du présent, mais aussi des possibles que le future nous réserve, laissant les visiteurs se questionner et vouloir en savoir plus.
+  - **à ne pas retenir:** Trop de clash entre les salles, plus de melange afin de creer une meilleure symbiose.
      
 - [ ] *Liens avec autres oeuvres*
 
 ## Conclusion :
 
-Informations sur l'oeuvre et le lieu d'exposition // Présentation détaillée de l'oeuvre // Expérience vécue // Appréciation critique et justifications // Liens avec autres oeuvres
+Rappel des aspects présentés
 
