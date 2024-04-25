@@ -64,7 +64,7 @@ L'expérience est définitivement amusante et réaliste, en plus d'avoir une tou
 **Résumé du projet :**
 > Sonalux est une installation qui dépasse les limites du réel pour proposer un monde d'art génératif où la notion du temps est repensé dans une boucle laissant place à un voyage astral collectif. L'interacteur se voit projeter dans un espace sans contraintes où il en devient le maître par la maîtrise des pièces d'instruments qui se trouvent sur le podium.
 
-![photo](media/Sonalux/sonalux_plan.png)
+<img align="left" width="300" height="250" src="media/Sonalux/sonalux_plan.png">
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html/>
 
