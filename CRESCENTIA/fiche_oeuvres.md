@@ -32,11 +32,10 @@ Le sentiment recherché pour cette exposition est très bien ressentis: le spect
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## EFFET PAPILLON
-*Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre*
 
-<p align="center">
-<img width="175" height="250" src="media/Effet-Papillon/effet_papillon_couverture.png">
-<p/>
+<img align="right" width="175" height="250" src="media/Effet-Papillon/effet_papillon_couverture.png">
+
+*Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre*
  
 <https://youtu.be/yFEkb-21T4E?si=KnTQHPnt6UxmudYS>
 
