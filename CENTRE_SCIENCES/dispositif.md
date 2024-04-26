@@ -24,6 +24,7 @@ Situé au Centre des Sciences de Montréal au Vieux-Port, l'exposition *Explore 
  <img align="top" width="450" height="350" src="media/interaction.png">
 </div>
 
+
 > **Source** Photos de moi à l'exposition *Explore - La science en grand*, dans la section de l'air, Centre des Sciences, Montréal
 
 ## Analyse descriptive du dispositif
