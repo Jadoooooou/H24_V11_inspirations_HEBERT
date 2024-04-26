@@ -36,9 +36,9 @@ Le petit **Robot Danseur** est un petit bras mécanique qui comporte au bout, un
 
 <img align="right" width="420" height="320" src="media/robot_danseur_ecran.png">
 
-<img align="right" width="420" height="320" src="media/robot_danseur_cartes.png">
-
 Le robot a pour but d'illustrer aux plus jeunes comment la programmation fonctionne. En effet, il agit en tant que vulgarisateur; les cartes représentes les données et l'espace réservée à ces cartes représente la formule.
+
+<img align="right" width="420" height="320" src="media/robot_danseur_cartes.png">
 
 ### Composantes et techniques
 - [ ] cartes magnétiques
