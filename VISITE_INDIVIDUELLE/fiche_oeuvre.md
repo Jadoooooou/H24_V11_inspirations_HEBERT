@@ -16,6 +16,13 @@
 
 Les missions virtuelles sont des activités interactives d'une durée d"une heure où le spectateur devient le héros d'une aventure spatiale à travers de courts métrages et de jeux interactifs.Le spectateur est amené à construire un camp de base, ainsi que de recueillir des informations sur la mystique planète Mars. Le tout commence par une petite vidéo expliquative de notre mission. À la fin de celle-ci, une seconde salle s'ouvre pour poursuivre l'aventure. Pour passer de salles en salles, des bracelets connectés sont utilisés pour ouvrir les portes ainsi que pour certains jeux interactifs. Tout au long de la mission, des vidéos, des lumières et de la musique accompagne les jeux afin de vraiment rendre l'expérience immersive. La mission se termine avec une dernière vidéo qui conscientise le spectateur sur les possibilités que renferme Mars et les nombreuses avantures spatiales et celles à venir.
 
+ <div align="center">
+ <img align="top" width="350" height="250" src="media/salle.jpeg">
+ <img align="top" width="350" height="250" src="media/couloir.jpeg">
+ </div>
+
+> **Source** VERGO, Projets / Sports et Loisirs, Salle de spectacle le Cosmodôme – Laval [https://vergo.com/fr/portfolio](https://vergo.com/fr/portfolio_page/construction-loisirs-salle-spectacle-cosmodome-laval/)
+
 Ce genre d'exposition fût créer dans le but de transmettre la passion des sciences de l’espace et la culture scientifique
 
 L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial. Chaques salles qui ont pour fonction de montrer des courts métrages sont équipées de bancs pour permettre de s'assoir, tandis que celles qui sont pour les jeux sont relativement plus grande pour permettre le déplacement, en plus d'avoir des tables ou des écrans tactiles.
@@ -25,22 +32,15 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
 - **Type d'installation:** Permanente
 - **Fonction:** Transmettre la passion des sciences de l’espace et la culture scientifique
 - **Mise en place de l'œuvre:** L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
-
- <div align="center">
- <img align="top" width="350" height="250" src="media/salle.jpeg">
- <img align="top" width="350" height="250" src="media/couloir.jpeg">
- </div>
-
-> **Source** VERGO, Projets / Sports et Loisirs, Salle de spectacle le Cosmodôme – Laval [https://vergo.com/fr/portfolio](https://vergo.com/fr/portfolio_page/construction-loisirs-salle-spectacle-cosmodome-laval/)
-
+  
+  <img align="top" width="350" height="250" src="media/bracelet.png">
+  
 - **Composantes:**
   - écrans (certains tactiles)
   - capteurs
   - lumières
   - haut-parleurs
   - bracelets connectés
-
-
 
 ## Expérience vécue
 
