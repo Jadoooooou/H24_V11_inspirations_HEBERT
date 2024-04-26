@@ -48,6 +48,8 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
 *regarder, écouter, participer et vivre*. 
 **Cette approche favorise l’appel aux sens et aux émotions afin de mobiliser l’attention intuitive et l’apprentissage dans un environnement immersif.**
 
+Pour ma part, j'ai adoré le mélange de vidéos et d'interactions, en plus de devoir se déplacer dans le "vaisseau", augemnter vraiment l'expérience.
+
 ## Appréciation critique et justifications
 ### Ce qui m'a plu ♥
 
@@ -57,6 +59,12 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
 
 ### À ne pas retenir
 
+Pour mes propres créations, je voudrais vraiment qu'il y ait plus de symbiose dans l'expérience, donc moins de "coupures". L'expérience était toujours divisée comme suit: vidéo, jeux, vidéo, jeux, etc. Je trouvais que cela faisait répétitif et je n'étais pas surprise de voir la prochaine salle.
+
 ## Liens avec autres oeuvres
+
+Je pourrais comparer cette oeuvre avec la première visitée, c'est-à-dire celle de *Shape Shifting Index*. Contrairement à cette dernière, *La planète rouge* était interactive, caractéristique qui n'était pas présente dans l'oeuvre de Jeremy Shaw. De plus, le spectateur n'avait pas de quête, il était tout simplement invité à regarder puisqu'il s'agissait d'une oeuvre comtemplative.
+
+Malgré ces différences, ma préféré reste toujours *Shape Shifting Index*, puisque c'est vraiment celle-ci qu m'a fait ressentir une profonde émotion, non seulement par l'immersion, mais aussi par le visuel artistique.
 
 **Mission virtuelle : La planète rouge, Fiche d'œuvre**
