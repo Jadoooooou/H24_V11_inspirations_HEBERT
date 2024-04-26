@@ -68,7 +68,7 @@ Comme on peut l'obersver ci-contre, le plan est de vue aérienne. L'espace pour 
 L'expérience est définitivement amusante et réaliste, en plus d'avoir une touche de futurisme apporter par le côté artistique de l'oeuvre.
 
 <p align="center">
-<img width="700" height="350" src="media/Kigo/kigo_oeuvre.png">
+<img width="800" height="450" src="media/Kigo/kigo_oeuvre.png">
 </p>
  
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
