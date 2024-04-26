@@ -19,6 +19,11 @@ Situé au Centre des Sciences de Montréal au Vieux-Port, l'exposition *Explore 
 - **Fonction:** Découvrir, mieux comprendre et s’approprier la science et la technologie
 - **Mise en place de l'œuvre:** L'œuvre se déroule sur une grande salle, où plusieurs "stand" y présente une thématique.
 
+<div align="center">
+ <img align="top" width="350" height="250" src="media/plafond.png">
+ <img align="top" width="350" height="250" src="media/interaction.png">
+</div>
+
 ## Analyse descriptive du dispositif
 
 ### Mise en place de l'œuvre
