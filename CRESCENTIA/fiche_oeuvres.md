@@ -11,6 +11,8 @@
 ## RHIZOMATIQUE
 *Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic*
 
+<img width="175" height="250" src="media/Rhizomatique/rhizomatique_couverture.png">
+
 <https://youtu.be/JO0JnrtgMJs?si=jsxUxty9pMKRH7nj>
 
 **Résumé du projet :**
@@ -30,6 +32,8 @@ Le sentiment recherché pour cette exposition est très bien ressentis: le spect
 
 ## EFFET PAPILLON
 *Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre*
+
+<img width="175" height="250" src="media/Effet-Papillon/effet_papillon_couverture.png">
 
 <https://youtu.be/yFEkb-21T4E?si=KnTQHPnt6UxmudYS>
 
@@ -51,6 +55,8 @@ L'expérience du spectateur est très bonifiée, principalement en raison des di
 ## KIGO
 *Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion*
 
+<img width="175" height="250" src="media/Kigo/kigo_couverture.png">
+
 <https://youtu.be/WNcLQIxaG8I?si=qKjmMFCGwngvfXYN>
 
 **Résumé du projet :**
@@ -71,6 +77,8 @@ L'expérience est définitivement amusante et réaliste, en plus d'avoir une tou
 ## SONALUX
 *Antoine Haddadm, Camélie Laprise, Ghita Alaoui, Vincent Desjardins*
 
+<img width="175" height="250" src="media/Sonalux/sonalux_couverture.png">
+
 <https://youtu.be/s5icQgM7LLg?si=NQeBM-8Zhd1KC-FI>
 
 **Résumé du projet :**
@@ -90,6 +98,8 @@ L'émotion est présente à mille pourcent dans ce genre d'oeuvre, où le specta
 
 ## CANEVAS COSMIQUE
 *Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau*
+
+<img width="175" height="250" src="media/Canevas Cosmique/canevas_couverture.png">
 
 <https://youtu.be/Jrn4U27G5YY?si=MfrmAX8dsl1ZxOk9>
 
