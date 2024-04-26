@@ -116,13 +116,32 @@ En effet, cette composante est un type de résistance variable qui permet de rec
 
 Les applications de vidéos et de traitement de sons utilisées dans les projets des troisièmes possèdent des potentiomètres, permettant le control des divers paramètres relatifs au son (volume, fréquence, etc.).
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Créer un fichier .md qui nous permettra de découvrir ces projets en création en y indiquant:**
-- le lien de chacun avec le thème *Crescentia*
-- l'installation en cours dans les studios pour chacun des projets (photos à l'appui)
-- le schéma de l'installation prévue (insérer le schéma de plantation de chacun des projets, avec la source)
-- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+## **PRÉFÉRENCE ACTUELLE**
 
-- ordonner les projets selon votre préférence actuelle (1 = votre projet préféré), avec justification (avant/après l'expérimentation)
+Si je devais classer en ordre d'appréciation les projets, j'irais comme suis:
 
-LES CRÉATIONS SONT ACTUELLEMENT RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OEULLET FREDERICKS
+- SONALUX
+- RHIZOMATIQUE
+- EFFET PAPILLON
+- KIGO
+- CANEVAS COSMIQUE
+
+En effet, **SONALUX** détient la première position puisque celle avec celle-ci que j'ai réellement "connecté". Le concept derrière est puissant, tout en étant simple, et l'équipe à su l'aborder avec brio. De plus, l'expérience est magique, tant par la musique que par le visuel. J'ai également apprécié le côté plus intime de la mise en expostion, et le fait qu'on ressentait à fond l'immersion en raion des écouteurs. Finalement, l'aspect d'interaction était au rendez-vous, non seuleument pour changer la musique, mais aussi les vidéos projetées et aussi la luminosité de certaines lumières.
+
+Il est vrai qu'à ma première visite, j'ai rapidement sauter cette exposition puisque rien n'était réelement actif, et l'équipe était en cours de création de l'exposition. Je pense que c'est peut-être pour cela que j'ai tant su apprécier l'oeuvre finale puisque j'ai pu remarquer la différence entre mes deux visites et le travail derrière. À prioris, l'expérience semble relativement banale, mais tout comme moi, les spectateurs sont attirés et curieux de voir et entendre ce que **SONALUX** a à nous présenter. C'est vraiment lorsque nous sommes en expériementation et qu'on s'immerge dans l'exposition que l'expérience commence vraiment.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+J'ai également très aimé **RHIZOMATIQUE**, pour son côté un peu abstrait comme dans **SONALUX**. Tout comme cette dernière, l'oeuvre était très bien exécuté; le message était fort et l'immersion était très présente.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+J'ai aussi aimé **EFFET PAPILLON** pour son immersion total et la créativité, mais j'ai trouver l'exposition un peu chargée, et, à mes dernière visite, des problèmes techniques ressortaient encore, gachant évidement l’expérience.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Finalement, je classe **KIGO** en avant-dernière position, puisque j'ai aimé le concept, mais je trouvais qu'il manquait de profondeur à l'oeuvre, de l'expérience. Même chose pour **CANEVAS COSMIQUE**, qui n'était pas très immersif.
+
+LES CRÉATIONS ONT ÉTÉ RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OEULLET FREDERICKS
