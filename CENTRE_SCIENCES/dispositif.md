@@ -48,7 +48,9 @@ Le robot a pour but d'illustrer aux plus jeunes comment la programmation fonctio
 
 <img align="right" width="420" height="320" src="media/robot_danseur_cartes.png">
 
-Il faut aussi un ordinateur qui puisse acheminer les informations captées par les cartes, les intègrent à un programme, qui renvoir ces nouvelles données au robot, *geste -> informatique -> mecanique.*
+Il faut aussi un ordinateur qui puisse acheminer les informations captées par les cartes, les intègrent à un programme, qui renvoir ces nouvelles données au robot.
+
+*geste -> informatique -> mecanique.*
 
 ### Éléments nécessaires au dispositif 
 
