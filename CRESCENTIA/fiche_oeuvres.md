@@ -9,9 +9,10 @@
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/>
  
 ## RHIZOMATIQUE
-*Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic*
 
 <img align="right" width="450" height="250" src="media/Rhizomatique/rhizomatique_couverture.png">
+
+*Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic*
 
 <https://youtu.be/JO0JnrtgMJs?si=jsxUxty9pMKRH7nj>
 
