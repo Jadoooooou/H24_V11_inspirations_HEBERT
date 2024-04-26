@@ -87,9 +87,9 @@ L'expérience est définitivement amusante et réaliste, en plus d'avoir une tou
 
 Complètement à l’opposé des projets différents, SONALUX présente une expérience hors du commun. En effet, le concept est abstrait et vise beaucoup plus sur l'emotion du spectateur que d'un message précis. Il s'agit pour cette oeuvre d'un environement en constante évolution, tant pas l'aspect sonore et visuelle. 
 
-Malgré la petite dimension dans laquelle se déroule l’exposition, tout est réfléchis pour un disposition optimale. Au centre de la représentation d'un studio se trouve un podium où des lumières y sont accrochées. 
+Malgré la petite dimension dans laquelle se déroule l’exposition, tout est réfléchis pour un disposition optimale. Au centre de la représentation d'un studio se trouve un podium où des lumières y sont accrochées. Celles-ci réagissent à l’intensité du volume qui peut varier lorsque le spectateur rotation des boutons au somment du podium. Des projecteurs et toujours des haut-parleurs sont présents pour entrer dans ce que l'équipe appelle "voyage austral". 
 <img align="right" width="300" height="250" src="media/Sonalux/sonalux_oeuvre.png">
-Celles-ci réagissent à l’intensité du volume qui peut varier lorsque le spectateur rotation des boutons au somment du podium. Des projecteurs et toujours des haut-parleurs sont présents pour entrer dans ce que l'équipe appelle "voyage austral". Les murs montés sont non-seulement présents pour séparer SONALUX des autres oeuvres, mais réussit à ressembler les différents spectateurs et créer un effet de collectivité, tout en gardant une légère intimité.
+Les murs montés sont non-seulement présents pour séparer SONALUX des autres oeuvres, mais réussit à ressembler les différents spectateurs et créer un effet de collectivité, tout en gardant une légère intimité.
 
 
 L'émotion est présente à mille pourcent dans ce genre d'oeuvre, où le spectateur peut non seulement regarder, écouter, en plus d'intéragir avec les boutons, pour modifier les effets sonores ainsi que la vitesse et le genre d'animations projetés sur les murs. Puisqu'il n'y a pas de message concret, cet à chacun d'établir sa vision et son expérience, ce qui fait de cette oeuvre une 
