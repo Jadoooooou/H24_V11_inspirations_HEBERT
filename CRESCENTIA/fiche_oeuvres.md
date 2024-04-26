@@ -106,15 +106,15 @@ L'émotion est présente à mille pourcent dans ce genre d'oeuvre, où le specta
 **Résumé du projet :**
 > L'interacteur se retrouve devant une table, où se trouve une simulation d'un système solaire avec laquelle il peut intéragir en déposant des statues déclancheant différents phénomènes. L'interacteur est invité à expérimenter sur cette table.
 
-<img align="right" width="320" height="300" src="media/Canevas Cosmique/canevas_cosmique_plan.png">
+<img align="right" width="220" height="300" src="media/Canevas Cosmique/canevas_cosmique_plan.png">
 
 Pour cette dernière oeuvre, l'équipe *Des gars de la table* ont voulu recréer un scnénario où le spectateur peut intéragir avec son environnement au moyen d'objets connectés. Le thème de cette ouevre est l'espace et rejoins celui de Crescentia par la définition d'évolution, puisque l'espace est en constante évolution.
+
+<img width="300" height="250" src="media/Canevas Cosmique/canevas_cosmique_oeuvre.png">
 
 Comme le shéma de plantation le démontre, la mise en exposition de l'oeuvre est relativement simple; elle comporte principalement une table munie de **kinects**, de deux hauts-parleur et d'un projecteur. 
 
 L'expositon est vraiment axé sur l'experimentation. Le spectateur est invité à toucher, manipuler et fusionner les petites statues afin de créer un changement sur la projection. Il n'y pas de messages concrets ou de leçon spécifique au Canevas Cosmique, seulement de faire vivre au spectateur un bon moment par le moyen de l’interactivité..
-
-<img width="300" height="250" src="media/Canevas Cosmique/canevas_cosmique_oeuvre.png">
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html/>
 
