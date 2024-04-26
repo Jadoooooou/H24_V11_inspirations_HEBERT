@@ -39,8 +39,6 @@ Le sentiment recherché pour cette exposition est très bien ressentis: le spect
 ![photo](media/Effet-Papillon/effet_papillon_mise_en_place.jpeg)
 
 **Source** Crescentia | TIM Montmorency 2024 | [https://tim-montmorency.com/2024/](https://tim-montmorency.com/2024/)
-            Photo de moi à l'oeuvre *EFFET PAPILLON* 12/03/2024
-
 
 Dans cette installation interactive, le but est de conscientiser le spectateur à l'impact des gestes du quotien, ainsi qu'à leurs répercusions. L'oeuvre est représentée sous le thème organique, mais le message s'applique dans chaque aspect de la vie, tant sur le plan écologique que social.
 
