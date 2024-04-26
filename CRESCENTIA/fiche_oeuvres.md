@@ -144,4 +144,7 @@ J'ai aussi aimé **EFFET PAPILLON** pour son immersion total et la créativité,
 
 Finalement, je classe **KIGO** en avant-dernière position, puisque j'ai aimé le concept, mais je trouvais qu'il manquait de profondeur à l'oeuvre, de l'expérience. Même chose pour **CANEVAS COSMIQUE**, qui n'était pas très immersif.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 LES CRÉATIONS ONT ÉTÉ RÉALISÉES DANS LE CADRE DU COURS *EXPÉRIENCE MULTIMÉDIA INTERACTIVE*, ENSEIGNÉS PAR GUILLAUME ARSENEAULT ET THOMAS OEULLET FREDERICKS
