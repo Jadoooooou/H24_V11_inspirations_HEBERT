@@ -11,6 +11,8 @@
 ## RHIZOMATIQUE
 *Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic*
 
+<https://youtu.be/JO0JnrtgMJs?si=jsxUxty9pMKRH7nj>
+
 **Résumé du projet :**
 > Rhizomatique est une oeuvre intéractive qui relie l'humain et le temps. Dans ce projet, en appuyant sur la toile l'interacteur naviguera dans le cerveau pour y découvrir ses souvenirs, qui vont par la suite être révellés sur les projections immersives.
 
@@ -28,6 +30,8 @@ Le sentiment recherché pour cette exposition est très bien ressentis: le spect
 
 ## EFFET PAPILLON
 *Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev, Jasmine Lapierre*
+
+<https://youtu.be/yFEkb-21T4E?si=KnTQHPnt6UxmudYS>
 
 **Résumé du projet :**
 > Une installation interactive immersive qui explore le cycle de vie d'un pommier tout en mettant en lumière l'effet papillon à travers des éléments électroniques. L'interacteur est invité à participer à une expérience sensorielle et éducative qui souligne la notion complexe de l'effet papillon.
@@ -47,6 +51,8 @@ L'expérience du spectateur est très bonifiée, principalement en raison des di
 ## KIGO
 *Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion*
 
+<https://youtu.be/WNcLQIxaG8I?si=qKjmMFCGwngvfXYN>
+
 **Résumé du projet :**
 > Un jeu interactif oû l'interacteur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
 
@@ -65,6 +71,8 @@ L'expérience est définitivement amusante et réaliste, en plus d'avoir une tou
 ## SONALUX
 *Antoine Haddadm, Camélie Laprise, Ghita Alaoui, Vincent Desjardins*
 
+<https://youtu.be/s5icQgM7LLg?si=NQeBM-8Zhd1KC-FI>
+
 **Résumé du projet :**
 > Sonalux est une installation qui dépasse les limites du réel pour proposer un monde d'art génératif où la notion du temps est repensé dans une boucle laissant place à un voyage astral collectif. L'interacteur se voit projeter dans un espace sans contraintes où il en devient le maître par la maîtrise des pièces d'instruments qui se trouvent sur le podium.
 
@@ -82,6 +90,8 @@ L'émotion est présente à mille pourcent dans ce genre d'oeuvre, où le specta
 
 ## CANEVAS COSMIQUE
 *Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do, Mikaël Tourangeau*
+
+<https://youtu.be/Jrn4U27G5YY?si=MfrmAX8dsl1ZxOk9>
 
 **Résumé du projet :**
 > L'interacteur se retrouve devant une table, où se trouve une simulation d'un système solaire avec laquelle il peut intéragir en déposant des statues déclancheant différents phénomènes. L'interacteur est invité à expérimenter sur cette table.
