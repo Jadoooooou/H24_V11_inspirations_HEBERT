@@ -18,11 +18,12 @@
 
 <img align="left" width="175" height="250" src="media/Rhizomatique/rhizomatique_plan.png">
 
-Cette oeuvre a pour but de faire oublier au spectateur le temps, et de "revivre" des souvenirs qui ne lui appartiennent pas. Rhizomatique aborde alors plus le thème de l'évolution psychologique, illustrant la création et la perte des souvenirs à travers le temps.
-
-Comme illustrer ci-contre, l'équipe, du nom de *Celestia*, ont disposé leur projet devant un ciclorama, afin d'optimiser la projection. Ils ont de plus eu recours à de nombreux projecteurs et hauts-parleurs (3) afin de réaliser le sentiment d'immersion, élément primordial à l'oeuvre. De plus, ils ont utilisé un podium muni d'une toile afin de rendre la projection interactive, augmentant l'expérience du spectateur.
+Cette oeuvre a pour but de faire oublier au spectateur le temps, et de "revivre" des souvenirs qui ne lui appartiennent pas. Rhizomatique 
+aborde alors plus le thème de l'évolution psychologique, illustrant la création et la perte des souvenirs à travers le temps.
 
 <img align="right" width="190" height="250" src="media/Rhizomatique/rhizomatique_oeuvre.png">
+
+Comme illustrer ci-contre, l'équipe, du nom de *Celestia*, ont disposé leur projet devant un ciclorama, afin d'optimiser la projection. Ils ont de plus eu recours à de nombreux projecteurs et hauts-parleurs (3) afin de réaliser le sentiment d'immersion, élément primordial à l'oeuvre. De plus, ils ont utilisé un podium muni d'une toile afin de rendre la projection interactive, augmentant l'expérience du spectateur.
 
 Le sentiment recherché pour cette exposition est très bien ressentis: le spectateur devient nostalgique et réfléchis sur l'impact du temps sur nos vie.
 
