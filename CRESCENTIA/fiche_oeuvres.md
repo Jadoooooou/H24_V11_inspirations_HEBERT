@@ -59,7 +59,7 @@ L'expérience du spectateur est très bonifiée, principalement en raison des di
 **Résumé du projet :**
 > Un jeu interactif oû l'interacteur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
 
-<img align="right" width="300" height="250" src="media/Kigo/kigo_plan.png">
+<img align="right" width="600" height="250" src="media/Kigo/kigo_plan.png">
 
 Contrairement aux projets présentés plus haut, KIGO se concentre davantage sur le plan de la progression psychologique ressentis lors que l'on joue à un jeux. Leur concept ressemble à celui d'un jeux vidéo de réalité augmentée, notament par le suivis des mouvements du spectateur. 
 
