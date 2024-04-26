@@ -3,9 +3,10 @@
 Dans ce dossier se trouve:
 
 -  **fiche_oeuvre**
--  ***plan_oral**
+-  **plan_oral**
 
-La fiche *dispositif* comporte une bref présentation de l'exposition **Explore - La science en grand** puis une présentation d'un dispositif retenu
-
+La fiche *fiche_oeuvre* témoigne mon expérience de l'exploration de l'exposition **La Planète Rouge** 
+La fiche *plan_oral* agit de plan pour ma présentation orale
 
 Un dossier de médias pour appuyer la Fiche
+
