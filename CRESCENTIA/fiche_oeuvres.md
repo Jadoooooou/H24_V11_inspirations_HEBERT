@@ -27,7 +27,7 @@ Comme illustrer ci-contre, l'équipe, du nom de *Celestia*, ont disposé leur pr
 
 Le sentiment recherché pour cette exposition est très bien ressentis: le spectateur devient nostalgique et réfléchis sur l'impact du temps sur nos vie.
 
-**Source** Crescentia | TIM Montmorency 2024 | [https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html/](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)
+**Source** Crescentia | TIM Montmorency 2024 | [https://tim-montmorency.com/2024/](https://tim-montmorency.com/2024/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ Le sentiment recherché pour cette exposition est très bien ressentis: le spect
 
 ![photo](media/Effet-Papillon/effet_papillon_mise_en_place.jpeg)
 
-**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html/>
+**Source** Crescentia | TIM Montmorency 2024 | [https://tim-montmorency.com/2024/](https://tim-montmorency.com/2024/)
 
 Dans cette installation interactive, le but est de conscientiser le spectateur à l'impact des gestes du quotien, ainsi qu'à leurs répercusions. L'oeuvre est représentée sous le thème organique, mais le message s'applique dans chaque aspect de la vie, tant sur le plan écologique que social.
 
@@ -71,7 +71,7 @@ L'expérience est définitivement amusante et réaliste, en plus d'avoir une tou
 <img width="1000" height="550" src="media/Kigo/kigo_oeuvre.png">
 </p>
  
-**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
+**Source** Crescentia | TIM Montmorency 2024 | [https://tim-montmorency.com/2024/](https://tim-montmorency.com/2024/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ Les murs montés sont non-seulement présents pour séparer SONALUX des autres o
 
 L'émotion est présente à mille pourcent dans ce genre d'oeuvre, où le spectateur peut non seulement regarder, écouter, en plus d'intéragir avec les boutons, pour modifier les effets sonores ainsi que la vitesse et le genre d'animations projetés sur les murs. Puisqu'il n'y a pas de message concret, cet à chacun d'établir sa vision et son expérience, ce qui fait de cette oeuvre une 
 
-**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html/>
+**Source** Crescentia | TIM Montmorency 2024 | [https://tim-montmorency.com/2024/](https://tim-montmorency.com/2024/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ Comme le shéma de plantation le démontre, la mise en exposition de l'oeuvre es
 
 L'expositon est vraiment axé sur l'experimentation. Le spectateur est invité à toucher, manipuler et fusionner les petites statues afin de créer un changement sur la projection. Il n'y pas de messages concrets ou de leçon spécifique au Canevas Cosmique, seulement de faire vivre au spectateur un bon moment par le moyen de l’interactivité..
 
-**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html/>
+**Source** Crescentia | TIM Montmorency 2024 | [https://tim-montmorency.com/2024/](https://tim-montmorency.com/2024/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
