@@ -56,7 +56,7 @@ Il faut aussi un ordinateur qui puisse acheminer les informations captées par l
 
 Il est pimordial d'avoir un bouton, pour faire comprendre au spectateur ce qu'on attend de sa part. De plus, les hauts-parleurs rajoutent à l'expérience. Finalement, pour un contexte comme celui de l'exposition, un bloc de verre qui protège le petit robot est de mise afin qu'il reste opérationnel et pour protéger l'ordinateur qui relie les cartes au robot.
 
----------------------------------------------------------------------
+---------
 
 J'ai aimé la simplicité du dispositif, et son objectif de vulgarisation. Je trouve qu'il s'agit d'une excellente façopn de démontrer aux plus jeunes des concepts souvent complexes, tout en ayant du plaisir.
 
