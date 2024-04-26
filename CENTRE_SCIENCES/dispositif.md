@@ -40,7 +40,7 @@ Le robot a pour but d'illustrer aux plus jeunes comment la programmation fonctio
 
 ### Composantes et techniques
 - [ ] cartes magnétiques
-- [ ] lecteur magnétiques
+- [ ] lecteur magnétique
 - [ ] bouton
 - [ ] bras mécanique
 - [ ] écran
@@ -48,15 +48,13 @@ Le robot a pour but d'illustrer aux plus jeunes comment la programmation fonctio
 
 <img align="right" width="420" height="320" src="media/robot_danseur_cartes.png">
 
-Il faut aussi un ordinateur qui puisse acheminer les informations captées par les cartes, les intègrent à un programme, qui renvoir ces nouvelles données au robot.
+Il faut aussi un ordinateur qui puisse acheminer les informations captées par les cartes, les intègrent à un programme, qui renvoie ces nouvelles données au robot.
 
 *geste -> informatique -> mecanique.*
 
 ### Éléments nécessaires au dispositif 
 
 Il est pimordial d'avoir un bouton, pour faire comprendre au spectateur ce qu'on attend de sa part. De plus, les hauts-parleurs rajoutent à l'expérience. Finalement, pour un contexte comme celui de l'exposition, un bloc de verre qui protège le petit robot est de mise afin qu'il reste opérationnel et pour protéger l'ordinateur qui relie les cartes au robot.
-
----------
 
 J'ai aimé la simplicité du dispositif, et son objectif de vulgarisation. Je trouve qu'il s'agit d'une excellente façopn de démontrer aux plus jeunes des concepts souvent complexes, tout en ayant du plaisir.
 
