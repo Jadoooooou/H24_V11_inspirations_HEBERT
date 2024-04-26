@@ -34,9 +34,9 @@ Le petit **Robot Danseur** est un petit bras mécanique qui comporte au bout, un
 
 ### Fonctions
 
-Le robot a pour but d'illustrer aux plus jeunes comment la programmation fonctionne. En effet, il agit en tant que vulgarisateur; les cartes représentes les données et l'espace réservée à ces cartes représente la formule.
+<img align="right" width="120" height="120" src="media/robot_danseur_ecran.png">
 
-photo
+Le robot a pour but d'illustrer aux plus jeunes comment la programmation fonctionne. En effet, il agit en tant que vulgarisateur; les cartes représentes les données et l'espace réservée à ces cartes représente la formule.
 
 ### Composantes et techniques
 - [ ] cartes magnétiques
