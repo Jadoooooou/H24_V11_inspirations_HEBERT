@@ -6,9 +6,18 @@ Situé au Centre des Sciences de Montréal au Vieux-Port, l'exposition *Explore 
 
 > **Source** TKNL Expériences - EXPLORE - LA SCIENCE EN GRAND [https://www.tknl.com/projet](https://www.tknl.com/projet-experiences/explore-la-science-en-grand-centre-des-sciences-de-montreal)
 
-Située à la Fonderie Darling, *PHASE SHIFTING INDEX* est une exposition itinérante réalisée en 2020. Elle est présentée par le Musée d’art contemporain de Montréal en partenariat avec The Polygon, Vancouver.
+## Informations
 
-![photo](media/Fonderie_Darling_façade.JPG)
+- **Nom de la firme:** TKNL, ACME DECORS, et plus 
+- **Année de réalisation:** 2019
+- **Nom de l'exposition:** Explore - La science en grand
+- **Type d'exposition:** Interactives
+- **Lieu de mise en exposition:** Centre des Sciences
+- **Infos sur le lieu:** Fondé en 2000, le Centre des Sciences a pour but de vulgariser la sciences à tous les groupes d'âges.
+- **Date de la visite:** 05/04/2024
+- **Type d'installation:** Permanente
+- **Fonction:** Découvrir, mieux comprendre et s’approprier la science et la technologie
+- **Mise en place de l'œuvre:** L'œuvre se déroule sur une grande salle, où plusieurs "stand" y présente une thématique.
 
 ## Analyse descriptive du dispositif
 
