@@ -60,6 +60,8 @@ J'ai aimé la simplicité du dispositif, et son objectif de vulgarisation. Je tr
 
 Par contre, je n'utiliserais pas le bois comme matériaux pour des cartes, puisque celles-ci sembent ce détériorer rapidement, gachant un peu le visuel.
 
+> **Source** Photos de moi à l'exposition *Explore - La science en grand*, devant le *Robot Danseur*, Centre des Sciences, Montréal
+
 ## Expérience 
 
 J'ai beaucoup aimé mon expérience au Centre des Sciences. Malgré que l'expérience est pour les plus jeunes, je me suis très amusé à découvir les différentes sections et à tester chaque dispositif. De plus, un guide nous a informé et démontrer comment certaines intallations ont vu le jour, ou comment elles perpétuaient à travers les années. Ce dernier point est très remarquable, puisqu'il est très rare qu'une exposition, quoique permanente, reste autant fonctionnelle et captivante. C'est ce que ce le Centre des Sciences réussi haut la main.
