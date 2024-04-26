@@ -90,7 +90,9 @@ L'émotion est présente à mille pourcent dans ce genre d'oeuvre, où le specta
 
 Pour cette dernière oeuvre, l'équipe *Des gars de la table* ont voulu recréer un scnénario où le spectateur peut intéragir avec son environnement au moyen d'objets connectés. Le thème de cette ouevre est l'espace et rejoins celui de Crescentia par la définition d'évolution, puisque l'espace est en constante évolution.
 
+Comme le shéma de plantation le démontre, la mise en exposition de l'oeuvre est relativement simple; elle comporte principalement une table munie de **kinects**, de deux hauts-parleur et d'un projecteur. 
 
+L'expositon est vraiment axé sur l'experimentation. Le spectateur est invité à toucher, manipuler et fusionner les petites statues afin de créer un changement sur la projection. Il n'y pas de messages concrets ou de leçon spécifique au Canevas Cosmique, seulement de faire vivre au spectateur un bon moment par le moyen de l’interactivité..
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html/>
 
