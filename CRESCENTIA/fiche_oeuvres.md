@@ -65,7 +65,7 @@ Contrairement aux projets présentés plus haut, KIGO se concentre davantage sur
 
 Comme on peut l'obersver ci-contre, le plan est de vue aérienne. L'espace pour la mise en expostion est relativement grand, ce qui favorise le déplacement, un important détail puisque que l'oeuvre dépend justement des mouvements du spectateur. Deux kinets sont disposés en avant et aussi en arrière du spectateur afin de bien capter les mouvements de ce dernier. Les hauts-parleurs et la projection murale est bien sur aussi importants afin de rendre l'expérience possible et agréable.
 
-<img align="left" width="500" height="250" src="media/Kigo/kigo_oeuvre.png">
+<img align="left" width="400" height="150" src="media/Kigo/kigo_oeuvre.png">
 
 L'expérience est définitivement amusante et réaliste, en plus d'avoir une touche de futurisme apporter par le côté artistique de l'oeuvre.
  
