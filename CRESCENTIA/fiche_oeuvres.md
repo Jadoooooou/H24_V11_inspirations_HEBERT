@@ -49,8 +49,6 @@ Effet Papillon se déroule dans un petit studio, où le spectateur peut vivre l'
 
 L'expérience du spectateur est très bonifiée, principalement en raison des dispositifs qui font avancer l'exposition. De plus, la petite pièce permet de vraiement "entrer" dans l'univers de l'oeuvre, et d'être totalement immergé.
 
-<img width="175" height="250" src="media/Effet-Papillon/effet_papillon_oeuvre.png">
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## KIGO
