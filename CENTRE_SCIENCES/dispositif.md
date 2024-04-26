@@ -24,12 +24,13 @@ Situé au Centre des Sciences de Montréal au Vieux-Port, l'exposition *Explore 
  <img align="top" width="450" height="350" src="media/interaction.png">
 </div>
 
+> **Source** Photos de moi à l'exposition *Explore - La science en grand*, dans la section de l'air (gauche) et mouvement (droite), Centre des Sciences, Montréal
 
-> **Source** Photos de moi à l'exposition *Explore - La science en grand*, dans la section de l'air, Centre des Sciences, Montréal
+Suite à ma visite, j'ai pu observer les différents kiosques, dont un que j'ai grandement apprécié. Il s'agit du **Robot Danseur**, qui était situé dans la section du codage informatique. 
 
 ## Analyse descriptive du dispositif
 
-### Mise en place de l'œuvre
+Le petit **Robot Danseur** est un petit bras mécanique qui comporte au bout, un écran affichant un bohnomme sourire. Le spectateur est invité à positionner dans un espace réservé des petites cartes représentant un mouvement et une expression. Une fois une suite de cartes assemblées, il ne reste plus qu'à appuyer sur le bouton à l’extrémité droite pour que le petit robot exécute la séquebce créée.
 
 ### Composantes et techniques
 - [ ] toiles blanches opaques et transparentes
