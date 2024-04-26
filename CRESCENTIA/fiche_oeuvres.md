@@ -24,6 +24,8 @@ Comme illustrer ci-contre, l'équipe, du nom de **, ont disposé leur projet dev
 
 Le sentiment recherché pour cette exposition est très bien ressentis: le spectateur devient nostalgique et réfléchis sur l'impact du temps sur nos vie.
 
+<img width="175" height="250" src="media/Rhizomatique/rhizomatique_oeuvre.png">
+
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,6 +48,8 @@ Effet Papillon se déroule dans un petit studio, où le spectateur peut vivre l'
 
 L'expérience du spectateur est très bonifiée, principalement en raison des dispositifs qui font avancer l'exposition. De plus, la petite pièce permet de vraiement "entrer" dans l'univers de l'oeuvre, et d'être totalement immergé.
 
+<img width="175" height="250" src="media/Effet-Papillon/effet_papillon_oeuvre.png">
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## KIGO
@@ -63,6 +67,8 @@ Contrairement aux projets présentés plus haut, KIGO se concentre davantage sur
 Comme on peut l'obersver ci-contre, le plan est de vue aérienne. L'espace pour la mise en expostion est relativement grand, ce qui favorise le déplacement, un important détail puisque que l'oeuvre dépend justement des mouvements du spectateur. Deux kinets sont disposés en avant et aussi en arrière du spectateur afin de bien capter les mouvements de ce dernier. Les hauts-parleurs et la projection murale est bien sur aussi importants afin de rendre l'expérience possible et agréable.
 
 L'expérience est définitivement amusante et réaliste, en plus d'avoir une touche de futurisme apporter par le côté artistique de l'oeuvre.
+
+<img width="300" height="250" src="media/Kigo/kigo_oeuvre.png">
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
 
@@ -84,6 +90,8 @@ Malgré la petite dimension dans laquelle se déroule l’exposition, tout est r
 
 L'émotion est présente à mille pourcent dans ce genre d'oeuvre, où le spectateur peut non seulement regarder, écouter, en plus d'intéragir avec les boutons, pour modifier les effets sonores ainsi que la vitesse et le genre d'animations projetés sur les murs. Puisqu'il n'y a pas de message concret, cet à chacun d'établir sa vision et son expérience, ce qui fait de cette oeuvre une 
 
+<img width="300" height="250" src="media/Sonalux/sonalux_oeuvre.png">
+
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html/>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -103,6 +111,8 @@ Pour cette dernière oeuvre, l'équipe *Des gars de la table* ont voulu recréer
 Comme le shéma de plantation le démontre, la mise en exposition de l'oeuvre est relativement simple; elle comporte principalement une table munie de **kinects**, de deux hauts-parleur et d'un projecteur. 
 
 L'expositon est vraiment axé sur l'experimentation. Le spectateur est invité à toucher, manipuler et fusionner les petites statues afin de créer un changement sur la projection. Il n'y pas de messages concrets ou de leçon spécifique au Canevas Cosmique, seulement de faire vivre au spectateur un bon moment par le moyen de l’interactivité..
+
+<img width="300" height="250" src="media/Canevas Cosmique/canevas_cosmique_oeuvre.png">
 
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/index.html/>
 
@@ -139,6 +149,10 @@ Si je devais classer en ordre d'appréciation les projets, j'irais comme suis:
 - CANEVAS COSMIQUE
 
 En effet, **SONALUX** détient la première position puisque celle avec celle-ci que j'ai réellement "connecté". Le concept derrière est puissant, tout en étant simple, et l'équipe à su l'aborder avec brio. De plus, l'expérience est magique, tant par la musique que par le visuel. J'ai également apprécié le côté plus intime de la mise en expostion, et le fait qu'on ressentait à fond l'immersion en raion des écouteurs. Finalement, l'aspect d'interaction était au rendez-vous, non seuleument pour changer la musique, mais aussi les vidéos projetées et aussi la luminosité de certaines lumières.
+
+<img align="right" width="320" height="300" src="media/Sonalux/sonalux_avant.png">
+
+<img align="right" width="320" height="300" src="media/Sonalux/sonalux_apres.png">
 
 Il est vrai qu'à ma première visite, j'ai rapidement sauter cette exposition puisque rien n'était réelement actif, et l'équipe était en cours de création de l'exposition. Je pense que c'est peut-être pour cela que j'ai tant su apprécier l'oeuvre finale puisque j'ai pu remarquer la différence entre mes deux visites et le travail derrière. À prioris, l'expérience semble relativement banale, mais tout comme moi, les spectateurs sont attirés et curieux de voir et entendre ce que **SONALUX** a à nous présenter. C'est vraiment lorsque nous sommes en expériementation et qu'on s'immerge dans l'exposition que l'expérience commence vraiment.
 
