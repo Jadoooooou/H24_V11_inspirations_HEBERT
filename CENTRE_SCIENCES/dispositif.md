@@ -1,6 +1,6 @@
 # Centre des Sciences : *Explore - La science en grand*
 
-<img align="left" width="175" height="250" src="media/logo.png">
+<img align="left" width="275" height="200" src="media/logo.png">
 
 Situé au Centre des Sciences de Montréal au Vieux-Port, l'exposition *Explore - La science en grand* vulgarise aux petits et grands une variété de notions scientifiques à travers de plus de 50 expériences interactives numériques, mécaniques et électromécaniques. Cette exposition ont pour but de faire découvrir et comprendre les sept grandes thématiques du monde des sciences: le mouvement, l’air, la lumière, l’eau, la géométrie, la matière et le code informatique.
 
