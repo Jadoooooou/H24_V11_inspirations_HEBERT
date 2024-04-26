@@ -27,7 +27,7 @@ Comme illustrer ci-contre, l'équipe, du nom de *Celestia*, ont disposé leur pr
 
 Le sentiment recherché pour cette exposition est très bien ressentis: le spectateur devient nostalgique et réfléchis sur l'impact du temps sur nos vie.
 
-**Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html/>
+**Source** Crescentia | TIM Montmorency 2024 | <[https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html/](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
