@@ -110,7 +110,7 @@ L'émotion est présente à mille pourcent dans ce genre d'oeuvre, où le specta
 
 Pour cette dernière oeuvre, l'équipe *Des gars de la table* ont voulu recréer un scnénario où le spectateur peut intéragir avec son environnement au moyen d'objets connectés. Le thème de cette ouevre est l'espace et rejoins celui de Crescentia par la définition d'évolution, puisque l'espace est en constante évolution.
 
-<img align="left" width="300" height="250" src="media/Canevas Cosmique/canevas_cosmique_oeuvre.png">
+<img align="left" width="250" height="200" src="media/Canevas Cosmique/canevas_cosmique_oeuvre.png">
 
 Comme le shéma de plantation le démontre, la mise en exposition de l'oeuvre est relativement simple; elle comporte principalement une table munie de **kinects**, de deux hauts-parleur et d'un projecteur. 
 
