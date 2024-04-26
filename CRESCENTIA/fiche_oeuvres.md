@@ -11,9 +11,7 @@
 ## RHIZOMATIQUE
 *Jolyanne Desjardins, Maïka Désy, Laurie Houde, Felix Testa Radovanovic*
 
-<p align="center">
-<img width="350" height="250" src="media/Rhizomatique/rhizomatique_couverture.png">
-</p>
+<img align="right" width="450" height="250" src="media/Rhizomatique/rhizomatique_couverture.png">
 
 <https://youtu.be/JO0JnrtgMJs?si=jsxUxty9pMKRH7nj>
 
