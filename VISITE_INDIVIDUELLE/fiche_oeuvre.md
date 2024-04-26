@@ -33,7 +33,7 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
 - **Fonction:** Transmettre la passion des sciences de l’espace et la culture scientifique
 - **Mise en place de l'œuvre:** L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
   
-  <img align="top" width="350" height="250" src="media/bracelet.png">
+<img align="right" width="150" height="350" src="media/bracelet.png">
   
 - **Composantes:**
   - écrans (certains tactiles)
