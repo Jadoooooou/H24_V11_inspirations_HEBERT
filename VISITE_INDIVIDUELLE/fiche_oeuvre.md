@@ -29,12 +29,11 @@ L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l
 
 La mission se termine avec une dernière vidéo qui conscientise le spectateur sur les possibilités que renferme Mars et les nombreuses avantures spatiales et celles à venir.
 
+<img align="right" width="350" height="220" src="media/bracelet.png">
+
 - **Type d'installation:** Permanente
 - **Fonction:** Transmettre la passion des sciences de l’espace et la culture scientifique
-- **Mise en place de l'œuvre:** L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial.
-  
-<img align="right" width="350" height="220" src="media/bracelet.png">
-  
+- **Mise en place de l'œuvre:** L'œuvre se déroule sur plusieurs salles, toutes reliées par des couloirs à l'allure d'un vaisseau spatial. 
 - **Composantes:**
   - écrans (certains tactiles)
   - capteurs
