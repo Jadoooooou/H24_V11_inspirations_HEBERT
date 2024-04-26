@@ -157,9 +157,8 @@ Il est vrai qu'à ma première visite, j'ai rapidement sauter cette exposition p
 <p align="center">
 <img width="320" height="300" src="media/Sonalux/sonalux_avant.png">
 <img width="320" height="300" src="media/Sonalux/sonalux_apres.png">
+ Lors de la première visite versus la deuxième
 </p>
-
-> Lors de la première visite versus la deuxième
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
