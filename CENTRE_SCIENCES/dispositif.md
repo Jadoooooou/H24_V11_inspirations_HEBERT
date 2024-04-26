@@ -30,11 +30,11 @@ Suite à ma visite, j'ai pu observer les différents kiosques, dont un que j'ai 
 
 ## Analyse descriptive du dispositif
 
+<img align="right" width="420" height="320" src="media/robot_danseur_ecran.png">
+
 Le petit **Robot Danseur** est un petit bras mécanique qui comporte au bout, un écran affichant un bohnomme sourire. Le spectateur est invité à positionner dans un espace réservé des petites cartes représentant un mouvement et une expression. Une fois une suite de cartes assemblées, il ne reste plus qu'à appuyer sur le bouton à l’extrémité droite pour que le petit robot exécute la séquebce créée.
 
 ### Fonctions
-
-<img align="right" width="420" height="320" src="media/robot_danseur_ecran.png">
 
 Le robot a pour but d'illustrer aux plus jeunes comment la programmation fonctionne. En effet, il agit en tant que vulgarisateur; les cartes représentes les données et l'espace réservée à ces cartes représente la formule.
 
