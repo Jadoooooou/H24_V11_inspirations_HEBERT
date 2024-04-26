@@ -40,6 +40,8 @@ La mission se termine avec une dernière vidéo qui conscientise le spectateur s
   - lumières
   - haut-parleurs
   - bracelets connectés
+ 
+> **Source** Photos de moi à l'exposition *La planète rouge*, Cosmodôme, Laval
 
 ## Expérience vécue
 
