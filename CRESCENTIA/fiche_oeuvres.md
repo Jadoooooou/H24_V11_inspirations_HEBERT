@@ -59,7 +59,7 @@ L'expérience du spectateur est très bonifiée, principalement en raison des di
 **Résumé du projet :**
 > Un jeu interactif oû l'interacteur doit éviter des obstacles dans un univers inspiré du style visuel néon rétro, dans lequel l'esthétique changera pour s'associer aux quatres saisons.
 
-<img align="right" width="600" height="250" src="media/Kigo/kigo_plan.png">
+<img align="right" width="500" height="250" src="media/Kigo/kigo_plan.png">
 
 Contrairement aux projets présentés plus haut, KIGO se concentre davantage sur le plan de la progression psychologique ressentis lors que l'on joue à un jeux. Leur concept ressemble à celui d'un jeux vidéo de réalité augmentée, notament par le suivis des mouvements du spectateur. 
 
@@ -68,7 +68,7 @@ Comme on peut l'obersver ci-contre, le plan est de vue aérienne. L'espace pour 
 L'expérience est définitivement amusante et réaliste, en plus d'avoir une touche de futurisme apporter par le côté artistique de l'oeuvre.
 
 <p align="center">
-<img width="500" height="350" src="media/Kigo/kigo_oeuvre.png">
+<img width="600" height="350" src="media/Kigo/kigo_oeuvre.png">
 </p>
  
 **Source** Crescentia | TIM Montmorency 2024 | <https://tim-montmorency.com/2024/projets/Kigo/docs/web/index.html/>
