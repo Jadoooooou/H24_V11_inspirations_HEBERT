@@ -152,12 +152,14 @@ Si je devais classer en ordre d'appréciation les projets, j'irais comme suis:
 
 En effet, **SONALUX** détient la première position puisque celle avec celle-ci que j'ai réellement "connecté". Le concept derrière est puissant, tout en étant simple, et l'équipe à su l'aborder avec brio. De plus, l'expérience est magique, tant par la musique que par le visuel. J'ai également apprécié le côté plus intime de la mise en expostion, et le fait qu'on ressentait à fond l'immersion en raion des écouteurs. Finalement, l'aspect d'interaction était au rendez-vous, non seuleument pour changer la musique, mais aussi les vidéos projetées et aussi la luminosité de certaines lumières.
 
-<p align="right">
+Il est vrai qu'à ma première visite, j'ai rapidement sauter cette exposition puisque rien n'était réelement actif, et l'équipe était en cours de création de l'exposition. Je pense que c'est peut-être pour cela que j'ai tant su apprécier l'oeuvre finale puisque j'ai pu remarquer la différence entre mes deux visites et le travail derrière. À prioris, l'expérience semble relativement banale, mais tout comme moi, les spectateurs sont attirés et curieux de voir et entendre ce que **SONALUX** a à nous présenter. C'est vraiment lorsque nous sommes en expériementation et qu'on s'immerge dans l'exposition que l'expérience commence vraiment.
+
+<p align="center">
 <img width="320" height="300" src="media/Sonalux/sonalux_avant.png">
 <img width="320" height="300" src="media/Sonalux/sonalux_apres.png">
 </p>
 
-Il est vrai qu'à ma première visite, j'ai rapidement sauter cette exposition puisque rien n'était réelement actif, et l'équipe était en cours de création de l'exposition. Je pense que c'est peut-être pour cela que j'ai tant su apprécier l'oeuvre finale puisque j'ai pu remarquer la différence entre mes deux visites et le travail derrière. À prioris, l'expérience semble relativement banale, mais tout comme moi, les spectateurs sont attirés et curieux de voir et entendre ce que **SONALUX** a à nous présenter. C'est vraiment lorsque nous sommes en expériementation et qu'on s'immerge dans l'exposition que l'expérience commence vraiment.
+> Lors de la première visite versus la deuxième
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
